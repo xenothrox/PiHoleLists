@@ -206,9 +206,12 @@ i.trend-umfrage.com
 i.vip-shopping-deals.com
 i.you-buy.net
 i2p-0.manas.ca
+i2p-projekt.de
 i2p.manas.ca
+i2p.mooo.com
 i2p.novg.net
 i2p2.no
+i2pseed.creativecowpat.net
 i93631q0.beget.tech
 ibb.co
 icanhazip.com
@@ -433,6 +436,7 @@ reseed.atomike.ninja
 reseed.i2p-projekt.de
 reseed.i2p.vzaws.com
 reseed.memcpy.io
+reseed.onion.im
 rgdbdfvfedsgvsdc.page.link
 rrf9489oli84m98o4dgdb.s3.us-west-004.backblazeb2.com
 rukalebi.ru
