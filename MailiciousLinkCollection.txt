@@ -352,6 +352,7 @@ mioip.info
 mioip.it
 mioip.org
 mioip.win
+mms.com
 mon-ip.com
 ms69-hinet.net
 my-ip-address.net
@@ -471,6 +472,7 @@ rrf9489oli84m98o4dgdb.s3.us-west-004.backblazeb2.com
 rukalebi.ru
 rzefdfge.page.link
 s3.uuu.ovh
+s3.wasabisys.com
 sanyai-love.rmu.ac.th
 sataen.com
 screlars.com
@@ -542,6 +544,7 @@ vipmember.resourcepedia.info
 vitly.in
 vodahelp.sytes.net
 w.hatsmyip.com
+wasabisys.com
 whatismybrowser.com
 whatismyip.akamai.com
 whatismyip.ca
