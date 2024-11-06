@@ -66,6 +66,7 @@
 111111xc0b32xc1b32xc1b0xc.s3.us-east-005.backblazeb2.com
 111111xcv3b10xcv32b1xc3v2.s3.us-east-005.backblazeb2.com
 11111ministaubsauger33333.s3.amazonaws.com
+11111xc01cbv32xcb32x1b0.s3.us-east-005.backblazeb2.com
 11111xcb03xc1vb32xcv3b01.s3.us-east-005.backblazeb2.com
 1111xc0vb21xc3111xcvb0312xcvb131x.s3.us-east-005.backblazeb2.com
 1111xc32b10xcb11xcbv231xc0b.s3.us-east-005.backblazeb2.com
@@ -3328,6 +3329,7 @@ gifgjbi.r.af.d.sendibt2.com
 gift.harmonieraum.shop
 giftshop.gedankenflug.shop
 giftshop.hoffnungslicht.shop
+giftshop.quikboutique.shop
 giftshop.traumpfad.shop
 giiwyfnamnc.hungaragua.com
 gijpen.jankovicking.net
@@ -6012,12 +6014,14 @@ nefertitisblend.com
 negaloseley.com
 neglittle.com.de
 negoiated.com
+negottfriends.org
 nemic.eneralled.news
 nemqjbeobri.madrategosaur.de
 neolitically.jp.net
 neoliticise.com
 neom.nsupdate.info
 neon.grabgleam.shop
+neon.kaufschnell.shop
 neon.lebensspuren.shop
 neon.zaubermoment.shop
 nerjcndhnpzdmkqhvh.mmfkszgcvwfpab7w54.com
@@ -6507,6 +6511,7 @@ philosophysemap.com
 phisaugh.com
 phlbkci.zfsbrz.co.uk
 phletical.gr.com
+ph-live-01.slatic.net
 phoddal.com
 phoebefs.ru.com
 phoebeho.ru.com
@@ -8777,6 +8782,7 @@ wordlesstought.live
 wordpress-1020451-3605373.cloudwaysapps.com
 wordpress-888010-3084417.cloudwaysapps.com
 words.herzklange.shop
+words.lichtbringer.shop
 workinaway.jp.net
 wortschatz.shop
 wortzauber.shop
@@ -9103,6 +9109,7 @@ wx2wx56cwx23c15.s3.us-east-005.backblazeb2.com
 wx32c15wxcwx32c1.s3.us-east-005.backblazeb2.com
 wx32c1w3x21cwxcwxcwxc.website.yandexcloud.net
 wx3c21w5xc3w2x1.s3.us-east-005.backblazeb2.com
+wx3c21wx516cw23xc321.s3.us-east-005.backblazeb2.com
 wx3c21wx5cw32xc1.s3.us-east-005.backblazeb2.com
 wx5c23wx1cwxc.storage.googleapis.com
 wxbci.hotspecial.org
