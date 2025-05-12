@@ -190,6 +190,7 @@
 199.115.116.147
 199.249.171.213
 19m52.trk.elasticemail.com
+19z6y-cr5wu4isow2s6c0q6xbp1msy.s3.amazonaws.com
 1a65d4f5b61ad654564.s3.us-east-005.backblazeb2.com
 1b23qd41fb654q6d4fb.s3.us-east-005.backblazeb2.com
 1b321d46f54b13qd2fbq56d.storage.googleapis.com
@@ -662,6 +663,7 @@
 7pei0w5.approxies.in
 7seshou.net
 7sidzur1w2e3hbpmja.blob.core.windows.net
+7slq.github.io
 7wwp5n3cznwy9gz8dei7jcq4srwf4.s3.amazonaws.com
 7xem5tk60xpa3ud.blob.core.windows.net
 80.241.212.41
@@ -690,6 +692,7 @@
 8l3neii2n45ls2i1astma.s3.amazonaws.com
 8t4mp3a8ir4.annetteferro.com
 8thuy7j8fg4nhfc421ghjh21gchn0ch5ny4gyhjhg.storage.googleapis.com
+90007.cc
 92.204.97.101
 93.115.76.60
 93.190.12.28
@@ -740,6 +743,7 @@ abourned.eu.com
 aboutmyip.com
 abqprecoop.com
 abraskole.com
+abre.ai
 abstrahuila.com
 abstructed.com
 abuse.py-m.store
@@ -798,6 +802,7 @@ ada0da0zdazda0d00azd0azd0az.storage.googleapis.com
 adac.car.kit.kindofx.com
 adac.dbane.shop
 adac.mustax.shop
+adac-brandschutz-kit.netlify.app
 adac-kitcar.kindofx.com
 adac-rewards.sptracer.com
 adalyna.ru.com
@@ -882,6 +887,7 @@ ahdllgudxye.curnatv.com
 ahgclbvobvivpcwrqv.kocvmwnoup1zzex.com
 ahvocbnvbwbbghrxti.jxv06rxucjly.com
 aicrypto.revoluntee.de
+aiinvesttron.com
 aiklnwtvfyd.sprinterfalls.com
 ailishrommer.com
 aimi.de
@@ -900,12 +906,14 @@ airporal.com
 airporaries.live
 airporistice.com
 aiusdplatform.com
+ai-vipok.cc
 ajowxnitnii.skentandal.com
 ajpgys.bmkogtll.co.uk
 akesan.comprisoned.com
 akezgvwefitr.blob.core.windows.net
 akhenate.com
 akroyd.admittent.stream
+aktion.campact.de
 aktions-engagement.de
 akusoli.austrill.com
 akw.fullflo.co
@@ -956,6 +964,7 @@ alphafoods.de
 alphax10ndultra.net
 alphoening.com.se
 alsfdafzeare.com
+alteomarezepte.com
 alte-oma-rezepte-h.asckat.com
 althousal.com
 altosmarpa.myvnc.com
@@ -1110,6 +1119,7 @@ aqeqdnehkvq.burisprom.com
 aqszfseszaq.bounceme.net
 aqvvdz808.bonusxutemya.com
 aqygbxxrynb.sprinterfalls.com
+arabicacacao.info
 araboo.yearsonal.com
 aragraphical.pro
 arague.net
@@ -1754,6 +1764,7 @@ caldemanding.com
 calinguished.org
 calistians.com
 calm-recipe-5478.pdfxmrfj.workers.dev
+cameliarecipes.com
 camillaqr.ru.com
 campairway.com
 campbellinical.com
@@ -1789,6 +1800,7 @@ cartoonraccoon.ru
 carvelle.com.de
 carvellingo.com
 caseyay.ru.com
+cash.sport-bett-online.com
 cash-and-cow.de
 cassific.com
 cassignified.com
@@ -2485,6 +2497,7 @@ de.grandimprove.co.in
 de.newsner.com
 de.producediscuss.cc
 de.propertybenefit.co.in
+de.serieiptv.com
 de.vihaad.com
 de.your-tiny-house24.com
 de-3b5eee38229c.intercom-mail.com
@@ -2501,6 +2514,7 @@ decademand.jpn.com
 decarufel.freshdesk.com
 decathlon.mediaprim.shop
 decathlon.muxell.shop
+decathlon-spezieller.netlify.app
 decentraland.fans
 decidency.autos
 decidents.com
@@ -2695,7 +2709,9 @@ discrimea.com
 discripted.com.se
 discutito.com
 disguiseriend.in.net
+dishharmony.com
 dishrecipes.ma2roc.tech
+dishxdash.com
 disinese.com
 disjected.com
 displante.com
@@ -2929,6 +2945,7 @@ dxzioc.ynqzjgtz.co.uk
 dxzpjyioerj.telephotogram.com
 dyjt20dgh0df21gh2df3g0hd1h0jfg2gh1j0d2ghjf1g.storage.googleapis.com
 dylanwz.ru.com
+dylinager.top
 dymionsuk.net
 dyna.boe.ttct.edu.tw
 dystopping.live
@@ -3014,6 +3031,7 @@ eijoj.earliamendment.com
 eiliesin.com
 ein3ygxtvrchojp.blob.core.windows.net
 einfacherezepte.asckat.com
+einfache-rezepte.deinehaare.com
 einfaches-rezept.edrrak.com
 einfachrezepte.com
 einkaufprofi.shop
@@ -3052,6 +3070,7 @@ elitecartz.shop
 eliterational.com
 elizabethm.ru.com
 elizationship.com
+ellarezepte.com
 elligetic.com
 eloculin.com
 elpgluf.clwkvzb.de
@@ -3312,6 +3331,7 @@ fagag5a4g5.collectorica.de
 fahkkjqn.kvhvlkyv.de
 fakoy.com
 falklin.support
+familyonketo.com
 famounter.net
 famountry.com
 fancy4zone.com
@@ -3519,6 +3539,7 @@ filtraited.com
 fimnzxehws.vivinely.com
 financeletter.org
 financients.net
+finaninvest.eu
 finanzglueckwebinar.onepage.me
 finanz-insider.net
 finanz-layout.de
@@ -3529,6 +3550,7 @@ findmyipaddress.com
 findsecretdates.life
 finesseteam.de
 fireshieldblanket.earthrough.com
+firmenzukaufen.de
 fisbonqr.tlpmfo.de
 fisherity.jp.net
 fit-und-mental.de
@@ -3709,6 +3731,7 @@ fuhrerschein-kaufenonline.com
 fulfillennium.us
 fulhabei.com
 fun888.bet
+funlobby.top
 funlon.surrench.com
 funmelinks.com
 fur.coinfirst.com
@@ -3771,6 +3794,7 @@ ganacvmswoi.acrosody.com
 gandards.net
 gandmhara.com
 gangration.com.de
+ganjingworld.com
 ganovember.support
 ganzos.successenges.com
 gapsnize.com
@@ -3863,6 +3887,7 @@ getemeraldhs.ru.com
 get-fuugu.com
 getglucotrust.com
 get-huusk.com
+getiptv.me
 getivenz.com
 getkaiyadk.ru.com
 getkarlafw.ru.com
@@ -4292,6 +4317,7 @@ h4q3.c15.e2-2.dev
 h5jhh21j0kh10j20jk10jh20k1g2kgh.sos-ch-gva-2.exo.io
 haagweb.com
 haalandcity.website.yandexcloud.net
+haarestylen.com
 habled.us.com
 hadiates.uk.net
 hairmany.com
@@ -4308,6 +4334,7 @@ hanaringo.com
 handides.us
 handlerswim.com
 hangarstair.xyz
+happinesslighthearted.com
 happywithvegas.com
 happy-woman.com
 haquet.advantaneous.com
@@ -4358,6 +4385,7 @@ hdsolmcjlonuoidoma.zmlznpt8u8gd7vsgj.com
 hdszuzrturuzrtu.page.link
 hdy02h01jd10h120yhjfg201jh0f2jh1ggghj.storage.yandexcloud.net
 heakrthan.com
+healthyfitnessmeals.com
 healthyknowledgeweb.com
 healwellnaturaltherapies.com
 heenia.com
@@ -4372,6 +4400,7 @@ helpinprogress.com
 help-mailer-gmx-de.s3.amazonaws.com
 hemban.com
 heravane.com
+herbiesheadshop.com
 herculebot.ru
 hermes.claimup.site
 hermes.hopeweb.cfd
@@ -5094,6 +5123,7 @@ iceladus.media
 icepromo.info
 ichschlafimtoaster.de
 icloud.forecol.com
+icloud-belohnungen.netlify.app
 icloud-rewards.sptracer.com
 icloudstorage.wrotectural.com
 iconape.com
@@ -5416,6 +5446,7 @@ iskcontinue.com
 ismailhosting.com
 isobront.top
 isotoperun.com
+ispruch.de
 isscorporatesolutions.com
 itaffmantem.com
 italized.club
@@ -5734,6 +5765,7 @@ jupiterates.live
 jurjevonnection.cfd
 jusil.vastogethere.com
 justions.in.net
+justrecettes.com
 jutta-ditfurth.de
 juvenied.com
 jux.news
@@ -5783,6 +5815,7 @@ kastured.com
 kaswq.machoslo.jp.net
 katalinaun.ru.com
 katherina-remberg.de
+kathisgenusskueche.de
 katstat.ru
 katzr.net
 kauferlebnis.shop
@@ -5865,6 +5898,7 @@ kitchencabinetsdirectory.com
 kiwiwebsitedesign.nz
 kiygjht.page.link
 kiyu.jdkartsports.nl
+kizios.com
 kj00j0khj2112jf0k21j2fgj0kf2g1d14ut23.objects-us-east-1.dream.io
 kjbshd.hwdpbsv.co.uk
 kjg5k1fyu20isdrts0uk03ty0srt21jdjghg.storage.googleapis.com
@@ -6402,12 +6436,14 @@ mazghanic.com
 mbwwzuudglxxcptkfx.cwjaw0uk3i4vd.com
 mcaefefe.criminary.com
 mcaeffee.criminary.com
+mcafee2025.netlify.app
 mcafeebrady.s3.us-west-004.backblazeb2.com
 mcafeedeutschland.ct.ws
 mcafee-deutschland.netlify.app
 mcafee-deutschland-2025.netlify.app
 mcafeeee.s3.us-east-005.backblazeb2.com
 mcafeeef.criminary.com
+mcafee-expired05.netlify.app
 mcafee-home.7eer.net
 mcafeese.github.io
 mcaffee.storage.googleapis.com
@@ -6448,6 +6484,7 @@ mediamarkt.mustax.shop
 medianewsc.com
 mediaplus23.gewinn24-7.de
 mediawerbemittel.s3.eu-west-1.amazonaws.com
+medicarkitwinner.netlify.app
 medispac.com
 meditativelyendometrium.space
 meetaureliasc.ru.com
@@ -6555,6 +6592,7 @@ mimerin.click
 minanz.ru.com
 mindtecstore.com
 mineexam.bid
+minepi.com
 minese.net
 minicaliberal.net
 ministant.in.net
@@ -6917,6 +6955,7 @@ newsletter.elm-mailing.com
 newsletter-angebot24.de
 newsletters.availablesbooks.com
 newslitetoday.com
+newsm24daily.com
 newsstodays.com
 newstoday.store
 newuktoday.dhtavern.com
@@ -7063,6 +7102,7 @@ nxjbr.8sxavez.com
 nxtixdh.uahwsti.de
 ny8178tesdddfhfq1s.s3.us-east-005.backblazeb2.com
 nyaon.handency.com
+nyav41erv0v8kc56mqj4bkqdt0l.s3.amazonaws.com
 nyc3.digitaloceanspaces.com
 nyhgfefqreh.page.link
 nylahf.ru.com
@@ -7415,6 +7455,7 @@ peterol.com
 petressure.live
 pets-friend-shop.com
 pfalz.smftiming.com
+pflanzenglueck-magazin.de
 pflanzentanzen.de
 pflege.gewinnspiel.gratis
 pfmvflbd.page.link
@@ -7506,6 +7547,7 @@ plitnu.work.gd
 plokook.page.link
 pltmubodzkwivdaajz.louxyd2osnjxmwe6j.com
 plurilocular.com
+plusrezept.com
 plutainverso.com
 plwfejab.hyaajrt.co.uk
 plyfly.net
@@ -7835,6 +7877,7 @@ quarterfected.net
 quarze.sparmatered.com
 quazol.com
 quberty.com
+qudajkc.com
 qudricsflops.com
 queengeorge.store
 queenslatova.lol
@@ -7950,6 +7993,7 @@ recentres.com
 recenturisdicta.com
 recentzone.com
 rechanishing.com
+recipeslora.com
 recipesplayer.com
 recognated.com
 recognitional.com
@@ -8069,6 +8113,7 @@ rewards.kintow.site
 reward-time.com
 reze21yj1j2210dhj210hj102gh210gf21kgkh.storage.googleapis.com
 rezepedia.com
+rezepte.romaniv.online
 rezeptemaria.com
 rezeptkiste.asckat.com
 rezrzdsqfspfzrez0rz2.storage.googleapis.com
@@ -8092,6 +8137,7 @@ rheinmain269.de
 rhiixxpmhm.capacitacionempresa.net
 rhkfh.handency.com
 rhoimplfyauqmjjyzb.4s1rb51zw3u9c4yb.com
+rhopunt.world
 rhsrehabcenter.com
 rht45ngh1n0hyj145yhj0yh1j45h10jgc1h4j0yhj1yhj.storage.googleapis.com
 rhtjhrgfdsg.page.link
@@ -8342,6 +8388,7 @@ schoninadjecti.site
 schroeder.germancerium.com
 schroeder.negational.nl
 schuette.shop
+schutzwarnungen-mcafee1.netlify.app
 schweitzler.com.de
 scopened.net
 scoresticipal.com
@@ -8568,6 +8615,8 @@ shulives.com
 shzeromackenzie.ru.com
 sicdttvhdehveqvtfa.tmrkx5qfiotchyd.com
 sicherheitaccessingdelogin.info
+sicherheitmcafee.netlify.app
+sicherheitmcafee15.netlify.app
 s-id-check.phoenixsms.sbs
 sidences.club
 sidkiehn.click
@@ -8668,6 +8717,7 @@ social.desired.de
 socialistent.net
 sociational.de
 sociationism.com
+sofiarecipes.com
 sofortversand.shop
 softwaffect.us.com
 solis-race.top
@@ -8980,6 +9030,7 @@ t.emeraldlight.digital
 t.familitars.jp.net
 t.groupon.nl
 t.opalbreeze.digital
+t.salesmatemail.net
 t.spe.booking.com
 t10jh21ryt1jy1j012yhj21j1d1jjghhjfghf.storage.googleapis.com
 t16165ydtj1uktd1jhfgjh1hk11dgh1dghdjh123j.storage.googleapis.com
@@ -9204,6 +9255,7 @@ tjelle.blowfields.us.com
 tjmdmnlnlyz.groovniest.com
 tjqnb.top
 tjwrax.ottawaforward.com
+tk-angebote-03.netlify.app
 tkpddpcxoqs.groovniest.com
 tkqffzylcjm.sprinterfalls.com
 tktv.site
@@ -9472,6 +9524,7 @@ ultragenerators.com
 ultratools.com
 um.cheermill.com
 umich.mirany.de
+ummatra.com
 ummoxfgmrzeyrvoyhi.lgozoqzvnqyggyzvn.com
 unaccumulation.com
 unaccur.gr.com
@@ -9533,6 +9586,7 @@ update.rifugiopontese.it
 update-phototan-db.app
 updatetan-sp.net
 upesh.montened.in.net
+upiptv.de
 uppg9.standardmanagement.top
 ups.kindofx.com
 ups.mediaup.shop
@@ -10149,6 +10203,7 @@ www.b1mftrk.com
 www.b4more.com
 www.bagelinta.com
 www.barreiroabogado.com
+www.beasbevegan.ch
 www.bellville.com.br
 www.benefitteu.ru
 www.bestenrezepte.top
@@ -10475,6 +10530,7 @@ www.vsmediahouse.com
 www.websiteinf0.com
 www.welkusters.com
 www.wellaro.ru
+www.wheeltiefoot.com
 www.witkey.com
 www.woocasino2.com
 www.wooreg.com
@@ -10947,6 +11003,7 @@ ztdqxlngvkjsjifkon.8ckhy860bdmpvh.com
 ztiffom.bethgk.de
 ztnirryokwifsugm.autoforest.ru
 zuckerice.com
+zuckerjagdwurst.com
 zuljaol.missimilar.news
 zuluck.top
 zummerprime.com
