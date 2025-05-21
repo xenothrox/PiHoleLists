@@ -71,6 +71,7 @@
 1110xc3bv1xc1vb1xcvb231xcv.s3.us-east-005.backblazeb2.com
 1110xc3vb12xc11xcb03xc1b.s3.us-east-005.backblazeb2.com
 1110xcb123xcvb11xc0bxc12b.s3.us-east-005.backblazeb2.com
+111102310zxc3v2101c2b.storage.googleapis.com
 11110xcb12xc1b1xc0b312xcv.s3.us-east-005.backblazeb2.com
 111110cvb210x3c1xcv3b2.s3.us-east-005.backblazeb2.com
 111110xcvb32xc1vb0x3cvb12.s3.us-east-005.backblazeb2.com
@@ -1008,6 +1009,7 @@ amqfrebqjphabrcqmt.amnfk9vgxxuldhtfm.com
 amsterloop.com
 amugucantrust.com
 amxe.net
+amzingfood234.com
 amzone01.s3.eu-central-1.amazonaws.com
 an2u5nuozoccylz7t.blob.core.windows.net
 anabellexi.ru.com
@@ -1526,6 +1528,7 @@ bitcoin-bankbreaker.com
 bitcoin-bank-deutschland.netlify.app
 bitcoinbillionaire.chitective.uk
 bitcoinbillionaire.fatherschell.com.de
+bitcoindeutschland.netlify.app
 bitcoinist.com
 bitcoinsrecoveryexperts.com
 bitcoinsystem.alphoening.com.se
@@ -1872,6 +1875,7 @@ cdn.worldvectorlogo.com
 cdn-assets-eu.frontify.com
 cdnii.e-i.com
 cdn-m4m.chd01.com
+cdnvizer.com
 cdnwmii.e-i.com
 cdqsv0c48sdf4v15sdc15qsfcdsvdfvb.page.link
 cdsbo.earliamendment.com
@@ -2541,6 +2545,7 @@ deepertille.com
 deesviral.com
 defeaterious.me
 defeatheir.jp.net
+defi.usdt.vip
 deficials.com
 defields.com
 definemation.jp.net
@@ -2569,6 +2574,7 @@ demo.maildoll.com
 democracialism.com
 democracket.stream
 demoglobulin.com
+demokrateam.org
 demonikayak.com
 denients.de
 dennesbury.com
@@ -2625,6 +2631,7 @@ deutsche-bank.de-start.net
 deutsche-bank.sp-dienst.de
 deutsche-erneuerung2912.com
 deutscheversicherungenua.de
+deutschsender.com
 deutschservices.imgix.net
 dev.to
 developonent.stream
@@ -2991,6 +2998,7 @@ ebesee.com
 ebexm.ovirinalition.co.uk
 ebike.decathlonn.shop
 eboolmoors.jp.net
+ecawue.com
 echte-freundinnen.de
 eclinese.com
 ecmdfuznbll.sprinterfalls.com
@@ -3346,6 +3354,7 @@ fagag5a4g5.collectorica.de
 fahkkjqn.kvhvlkyv.de
 fakoy.com
 falklin.support
+familynews3.com
 familyonketo.com
 famounter.net
 famountry.com
@@ -3537,6 +3546,7 @@ fh12fd0hyjfhgjdf20jf10ghfdjhdghjfj.storage.googleapis.com
 fhdeuurwi87965wr.s3.amazonaws.com
 fhdfgd32gd3f2f212fgr23s2f01f0sdg321ff.storage.googleapis.com
 fhf202ghj10kgh0jkh021j00jjhjk1jk12ghf.storage.googleapis.com
+fhhfll.stripocdn.email
 fhiya.earliamendment.com
 fhrdf30gh3dfx02hfd320jdh2j10dgf3h32.storage.googleapis.com
 fhrterf2g11jxf23gh1s23grt1jh21dcgfhj12jd.storage.googleapis.com
@@ -3559,6 +3569,7 @@ finaninvest.eu
 finanzglueckwebinar.onepage.me
 finanz-insider.net
 finanz-layout.de
+finanzplaner-deutschland.com
 finderconcepts.com
 findjob.mhwnzu.com
 findmyip.org
@@ -5340,9 +5351,11 @@ inkhkamcdee.sprinterfalls.com
 inklingdraw.com
 innerstrength.zone
 inngreen.com
+innn.it
 innosupps.com
 inobetbuial.jp.net
 inpcqcyvnpvsmjcjam.tuakyooieqsyukeo.de
+in-rage.org
 inroadglare.site
 insiderstance.in.net
 insights.rtgio.co
@@ -5527,6 +5540,7 @@ jambbend.win
 jamesclear.com
 jamiec.ru.com
 jamiei.ru.com
+janahilger.tentary.com
 japanethis.com
 jarjhgaoswu.missimilar.news
 jarmaror.onthewifi.com
@@ -5973,6 +5987,7 @@ kochen.rezepte.mtyblogs.com
 kochenmitliebe.servi.tn
 kochen-und-backen.asckat.com
 koevi.reorda.net
+kogowoi.pics
 kohlenhowed.biz
 koinstack.net
 kolkatant.com
@@ -6142,6 +6157,7 @@ legacyolivetree.com
 lego.kindofx.com
 leilava.ru.com
 leiving.com
+lekotuu.pro
 lemvhofzlmbzmfunsa.cvbwweek2ghv.com
 lenzivjshwk.nampublippol.com
 leonat.ru.com
@@ -6186,6 +6202,8 @@ lidlquechua.mustax.shop
 lido-distribution.com
 lidofitech.s3.us-west-1.amazonaws.com
 liebefinden24.de
+liebesmich-ritual.de
+liebes-voodoo.de
 liebeszauberin.com
 lieblingsshop.shop
 lieferchecker.de
@@ -6359,6 +6377,7 @@ madns.ru
 madrideen.store
 magadisorded.com
 magentacloud.de
+magicnodrvoljubavi.com
 magingest.com
 magining.com
 magnitudents.com
@@ -6668,6 +6687,7 @@ mobilione.ru
 mobillow.com
 mobuemoqulc.curnatv.com
 mobykb.djsilyvi.com
+modelfaithlynn.com
 moderacter.com
 moderatith.com
 modernizens.com
@@ -7502,6 +7522,7 @@ phaiaebegive.com
 pharactivities.com
 pharaohhu.com
 phaveng.com
+phenics.theworkpc.com
 philbertain.com
 philosophens.com.ph
 philosophilippi.jp.net
@@ -7725,6 +7746,7 @@ profitgenrator.com
 profitusd.net
 progenerally.de.com
 projects.globaltronics.net
+projekt-finanzierung.at
 promiupdate.de
 promo.mediaprim.shop
 promo.topgermany.shop
@@ -8397,6 +8419,7 @@ satuvo.carsdealspot.com
 sauditorica.com
 sauffyeaud.de
 sauna-pulse.com
+savanttools.com
 saveimagesusa.com
 savvyspree.shop
 sawyerb.ru.com
@@ -8878,6 +8901,7 @@ staplanned.com
 star.blissfulbags.shop
 star.blitzkauf.shop
 star.traumpfad.shop
+stark-liebeszauber.de
 start26.sptpub.com
 startiare.com
 starticles.net
@@ -10298,6 +10322,7 @@ www.datatrail.xyz
 www.datingmarvels.com
 www.defendence.com
 www.demandinko.com
+www.demokrateam.org
 www.designtagebuch.de
 www.deutsche-familienversicherung.de
 www.devnea.com
@@ -10385,6 +10410,7 @@ www.k33clq-3.com
 www.kerliteer.com
 www.kind-loving-strawberry.com
 www.kinemanderjpn.com
+www.king-ingelheim.de
 www.kjw63qsn.com
 www.kochbuch.top
 www.koinstack.net
@@ -10517,6 +10543,7 @@ www.sfu.ca
 www.simple-sixpack.com
 www.sipgate.de
 www.slapintins.publicvm.com
+www.slashgear.com
 www.snelafvallenmetshakes.nl
 www.softwareaktion.com
 www.solarvibe.ru
@@ -10981,6 +11008,7 @@ zerzer1zer1ze0r1zer01ererer.s3.us-east-005.backblazeb2.com
 zeueazuwrhw.hungaragua.com
 zezao.denverging.com
 zezao.muierfor.com
+zezyzoo.icu
 zfthjbdcrrbwjunwpo.chkqctvunjy5wc.com
 zfzuzvwhediwsdcp.samogruzavto.ru
 zgdlzb.genounciately.com
