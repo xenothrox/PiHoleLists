@@ -615,23 +615,23 @@ pp.kkthreas.com
 ci04495.tmweb.ru
 #####
 #Hiatus_2_IOCs Source: https://github.com/blacklotuslabs/IOCs/blob/main/Hiatus_2_IOCs.txt
-#Heartbeat server 
-104.250.48.192 
-#Upload server 
-46.8.113.227 
-#Procured VPSs 
-207.246.80.240 
-45.63.70.57 
-155.138.213.169 
-66.135.22.245  
+#Heartbeat server
+104.250.48.192
+#Upload server
+46.8.113.227
+#Procured VPSs
+207.246.80.240
+45.63.70.57
+155.138.213.169
+66.135.22.245
 107.189.11.105
 #####
 #Hiatus_IoCs Source: https://github.com/blacklotuslabs/IOCs/blob/main/Hiatus_IoCs.txt
 #Heartbeat Server
 104.250.48.192
-#Upload Server 
+#Upload Server
 46.8.113.227
-#Stagging Server 
+#Stagging Server
 66.42.108.185
 149.248.0.203
 #####
