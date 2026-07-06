@@ -1114,6 +1114,7 @@ addressurano.com
 addysonu.ru.com
 adele-798974.zucj.buzz
 adilynnrn.ru.com
+adimages.fra1.cdn.digitaloceanspaces.com
 adjected.com
 adjura.epithers.org
 admiel.afghanish.live
@@ -1348,6 +1349,7 @@ anahedral.com
 analiax.ru.com
 anal-lytics.site
 analytics.app.funnelish.com
+analytics.tiktok.com
 anambe.rankfurthere.com.de
 anastasiakarg.de
 ancially.com
@@ -1784,6 +1786,7 @@ basebaldo.support
 baseballow.com
 bastelberni.de
 basutolars.biz
+bat.bing.com
 batsmanitoulose.com
 battlemental.us.org
 battlemetres.com
@@ -2330,9 +2333,11 @@ cdn.node33.ai
 cdn.offercontents.com
 cdn.onlinesmedia.com
 cdn.outletsbrand.com
+cdn.prod.website-files.com
 cdn.product-quotes.com
 cdn.reliableshieldaccurateproactive.autos
 cdn.shieldadvancedaccuratefast.autos
+cdn.sift.com
 cdn.smava.de
 cdn.thrillndeal.com
 cdn.tryclothes.net
@@ -3037,6 +3042,7 @@ d364ez65r4e8z97f65e4t987ret654ert9re65t987.s3.ca-east-006.backblazeb2.com
 d3654z9r8f64fe6z54tg65e4zt987ztz98rf.s3.us-east-005.backblazeb2.com
 d36e654re897zt6r54t65r4e897y.s3.us-west-004.backblazeb2.com
 d36z46r54e8tr7et4re654t3re4t65re4t89e7ry.s3.ca-east-006.backblazeb2.com
+d3e54v103j8qbb.cloudfront.net
 d3k23pi7j4bzsx.cloudfront.net
 d3k81ch9hvuctc.cloudfront.net
 d3tmpsuhcgf0q8.cloudfront.net
@@ -6143,6 +6149,7 @@ hqibwjsmxsmx.marriedricht.com
 hqofisuhsdifuqhsdfuoi.s3.sa-east-1.amazonaws.com
 hqonn.earliamendment.com
 hrafuiwqficpcbglof.eqpnuhunbx3bji4hyq.com
+href.li
 hrtj2ytj02h0j2h0j2fgh0j1fg0hj21fgh0jfhjg.storage.googleapis.com
 hrtuzrizrizrtizrt.page.link
 hruner.com
@@ -6249,6 +6256,7 @@ i.gyazo.com
 i.homeabout.de
 i.hotel-deals.net
 i.ibb.co
+i.l-dsp.inmobicdn.net
 i.mein-check.com
 i.premium-traveler.de
 i.shopping-trend.net
@@ -7838,6 +7846,7 @@ mazghanic.com
 mbwwzuudglxxcptkfx.cwjaw0uk3i4vd.com
 mcaefefe.criminary.com
 mcaeffee.criminary.com
+mcafee.sjv.io
 mcafee1de.psee.io
 mcafee2025.netlify.app
 mcafee-2026.netlify.app
@@ -8825,6 +8834,7 @@ oryswuaoerzfttaydv.bhyqanosigsh.com
 osamad.com
 oscaginlendingcorporation.com
 oscarfrench.wizx.online
+osceim.shop
 osfjzda.madipls.click
 oskar.de
 osolelaravel.com
@@ -9389,6 +9399,7 @@ pyrocko.com
 pysntgqvknm.fostelaid.com
 pzatrahq.dgjlipsv.de
 pzsatjruphhewrmdpv.diduemymz7ljxpg.com
+q.zadroivan.com
 q32fb10qdfb65q456.s3.us-east-005.backblazeb2.com
 q3hmd8vz5aluo6b.blob.core.windows.net
 q6f4bq89f8b4q65df1b1q45d6f4b6q4d84.objects-us-east-1.dream.io
@@ -9757,6 +9768,7 @@ rer.electricanto.net
 reriath.com
 res.cloudinary.com
 res.shippingazette.com
+res4.applovin.com
 resalessale.com
 rescueannounce.gr.com
 researchaeopted.lol
@@ -10008,10 +10020,12 @@ rzhtn.twiligeriania.com
 rzsun.hippocration.live
 rzxji.earliamendment.com
 s.8713.su
+s.axon.ai
 s.go-mpulse.net
 s.id
 s.iimg.su
 s.mzstatic.com
+s.pinimg.com
 s.vorteilsguru.de
 s07hwv4vs8x5jbzj2y4d1q.blob.core.windows.net
 s2.loli.net
@@ -10051,6 +10065,7 @@ sacha.verseases.com
 sacrifican.com
 safe.securesiteshield.com
 safe.trustcloudpay.com
+sagelotte.com
 saharing.com
 sailingwind.com
 salahniuk.com
@@ -10142,6 +10157,7 @@ screlars.com
 screted.com
 scrille.com
 scripts.simpleanalyticscdn.com
+sc-static.net
 scureeks.com
 sd4dsrfd.s3.us-east-005.backblazeb2.com
 sd564sffsd.s3.us-east-005.backblazeb2.com
@@ -10655,9 +10671,11 @@ static.118.174.201.138.clients.your-server.de
 static.fnac-static.com
 static.medias24.com
 static.myip.wtf
+static.newsbreak.com
 static.slotomatic.net
 static.wixstatic.com
 statiocreft.de
+stats.g.doubleclick.net
 staturies.com
 stayincontact.email
 stcloudstate.edu
@@ -11212,6 +11230,7 @@ tqosc.sunrise-inspired.com
 tqwmpezg.qmsphs.de
 tqyiocvwgkvhlvlifi.enthkbuwmhewwte.com
 tr.affaz1.com
+tr.snapchat.com
 tr.the-advisr.com
 tracemyip.com
 tracemyip.org
@@ -11954,6 +11973,7 @@ warenstadt.shop
 warentrend.shop
 warenzauber.shop
 warfinal.com
+warndistance.org
 warningressive.com
 warranty.freiheitswind.shop
 warrivalent.com
@@ -12364,6 +12384,7 @@ www.ejnj0trk.com
 www.eki-net.com
 www.email-versandservice.com
 www.emporium-italy.com
+www.emsense-official.com
 www.enigmvolve.com
 www.entreprises-magazine.com
 www.erasetrains.com
@@ -12617,7 +12638,9 @@ www.sciencedaily.com
 www.sciencedirect.com
 www.seasons52.com
 www.sebeati.com
+www.serverbwll.com
 www.servernitinfo.com
+www.servershaft.com
 www.sfu.ca
 www.shieldadvancedaccuratefast.autos
 www.shuris.de
@@ -13190,6 +13213,7 @@ zici.carsdealspot.com
 zifgn.earliamendment.com
 zigerac.com
 zilfi.catchestres.com.se
+zinno.xyz
 zinteres.ru
 zinteresno.ru
 zinzino.com
