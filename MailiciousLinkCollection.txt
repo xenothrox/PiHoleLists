@@ -82,6 +82,7 @@
 1032g0n0gb0n11ncghfn0ch112cgh1cg214hcgh451h4h12h2cg.storage.googleapis.com
 1036bcdpxo5ojrjn6m21po2.blob.core.windows.net
 103hw.mjt.lu
+104.21.57.71 #https://www.malwarebytes.com/de/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes
 107.179.66.120
 107.191.47.239
 109.206.239.135
@@ -199,6 +200,7 @@
 16q5sd4g6s5d1gs3df2.storage.googleapis.com
 16q85sdf16q5s1df65qsd.s3.us-east-005.backblazeb2.com
 16sdf5g1s6d5f1g6s5df14g.s3.us-east-005.backblazeb2.com
+172.67.160.241 #https://www.malwarebytes.com/de/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes
 173.208.193.76
 173.239.202.172
 176.31.105.53
@@ -1425,6 +1427,7 @@ apdtr.8sxavez.com
 apeetach.net
 apelvo.de
 apemch.stripocdn.email
+apex.herosms.ai #https://www.malwarebytes.com/de/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes
 apheroei.com.de
 api.db-ip.com
 api.extremechat.com
@@ -2263,6 +2266,7 @@ carough.com
 carsrave.com
 carteru.ru.com
 cartoonraccoon.ru
+carttechmarket.com
 carvelle.com.de
 carvellingo.com
 casansex.net
@@ -3440,6 +3444,7 @@ dirvfjllkdx.etiquid.com
 disappeasibly.org.uk
 disappointine.uk.net
 disapproximated.nl
+disarrows.shop
 discharacters.net
 dischedules.com
 dischemia.com
@@ -4585,6 +4590,7 @@ fltyr.earliamendment.com
 fluctance.net
 fluctima.us.com
 flun.subductions.com
+flux.smshero.co #https://www.malwarebytes.com/de/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes
 fnaviddckik.greatselickpanel.com
 fnhdh1gfhf02h0d0fgh1fdgh01df0g1hdfgj.storage.yandexcloud.net
 fnkzuibhjbd.hungaragua.com
@@ -4675,6 +4681,7 @@ frequilibrarily.com
 frequirement.com
 frerequel.net
 frerg12de10gdf1gfg0drg12er021gr12g0s2df1g2.storage.googleapis.com
+freshaxis.shop
 freshhpost.com
 freta.beigenbaum.de
 fretytonde.com
@@ -5055,6 +5062,7 @@ gkqjuntk.hrgnasos.de
 gkwhatkhaleesi.ru.com
 glacialsnore.org
 glasuph.fun
+glide.smshero.cc #https://www.malwarebytes.com/de/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes
 glideflys.com
 glima.artheates.in.net
 glimmerzenith.com
@@ -5200,6 +5208,7 @@ green.theorience.org.uk
 greenesalehouse.com
 greenfishmedia.co.uk
 greenforce.com
+greensenseview.com
 greggar.com
 gregormarstaller.de
 greletzatche.com
@@ -6640,6 +6649,7 @@ ipitf.earliamendment.com
 ipleak.net
 iplegwkutye.annerrelly.com
 iplocation.net
+iplogger.org #https://www.malwarebytes.com/de/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes
 iplogger.ru
 ipmonkey.com
 ipmozi.com
@@ -6688,6 +6698,7 @@ itaffmantem.com
 italized.club
 itbjwthzhgj.curnatv.com
 itcprosolutions.com
+itetaspermous.shop
 ithonomete.com
 ithrekhi.ahmeed7783.workers.dev
 itnejyr.fqyrh.click
@@ -6910,6 +6921,7 @@ jhjh0hj0jh1jh0jh10hj0hjhj1jh1jhjhhjhjjhj.s3.us-west-004.backblazeb2.com
 jhjh0jh01jh01jh01jh1jh0hj1hj01jhhjhjhj.website.yandexcloud.net
 jhjhhj0jh0hjhj01hj0jh1jh1jhhjhjj0hj1hjhjjh0h.website.yandexcloud.net
 jhjhhjhjj.wrotectural.com
+jhjhjh0jh0hj1hjhjhjh00jhjh10jh1jhhjhjhjhj.website.yandexcloud.net
 jhjhjhjjh1hj0hjhj0hj1hj01hjhj01hj00hj1hjjh.website.yandexcloud.net
 jhjhjhjjhgjghjh.criminary.com
 jhjhkhjkhj.rematogram.com
@@ -7182,6 +7194,7 @@ kimberly-188438.onokwongedan.buzz
 kimberly-xx.fbpro.blog
 kimthyanddon.com
 kinder.claimup.site
+king.artpaleta.hr
 kinleyl.ru.com
 kiobo.manon-gignoux.com
 kiroved.com
@@ -8044,6 +8057,7 @@ minimited.us
 ministant.in.net
 minonym.de
 minstrabayare.com
+mint.smshero.com #https://www.malwarebytes.com/de/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes
 mioip.biz
 mioip.ch
 mioip.info
@@ -8411,6 +8425,7 @@ negottfriends.org
 nemic.eneralled.news
 nemqjbeobri.madrategosaur.de
 neo.com
+neo.herosms.co #https://www.malwarebytes.com/de/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes
 neolitically.jp.net
 neoliticise.com
 neom.nsupdate.info
@@ -8571,6 +8586,7 @@ notesclonesolution.com
 nothinkers.com
 nothish.com
 notify.bubble.io
+nova.smshero.ai #https://www.malwarebytes.com/de/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes
 nova2024.shop
 novaellas.com
 novaratrust.com
@@ -9278,6 +9294,7 @@ prevelt.com
 previousness.support
 primarized.com
 primaryvilla.com
+prime.herosms.vip #https://www.malwarebytes.com/de/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes
 primeaudiences.com
 primerspots.world
 primuth.com
@@ -9363,6 +9380,7 @@ pucufrnoujd.sprinterfalls.com
 puenichaum.com
 puiexprsde.com
 pulol-redirect1.com
+pulse.herosms.cc #https://www.malwarebytes.com/de/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes
 puomson.com
 pupaczar.com
 purchaefellor.com
@@ -9522,6 +9540,7 @@ quantifiedprofit.com
 quantityusd.com
 quantumayyad.net
 quantumnestnow.ch
+quantumpulsefusion.net
 quantusd.com
 quarender.top
 quarkvade.site
@@ -10384,6 +10403,7 @@ shopparadies.shop
 shopping.blissfulbags.shop
 shopping.sternenreich.shop
 shoppingease.shop
+shoppulse.us.com
 shopweltmeister.shop
 shopwunder.shop
 short-git-main-aminemengad97-gmailcoms-projects.vercel.app
@@ -10522,6 +10542,7 @@ snishlqjsrbqljonka.5r71zrsndealh3t0na.com
 soalvhti.de
 soapspoiler.dealxtop.com
 sobiborers.com
+soc.hero-sms.co #https://www.malwarebytes.com/de/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes
 social.desired.de
 socialistent.net
 sociational.de
@@ -10562,6 +10583,7 @@ sparently.com
 sparexpress.shop
 spar-highlight.de
 sparistoriants.com.ph
+spark.herosms.io #https://www.malwarebytes.com/de/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes
 spark042.suchal.pk
 sparkasse.de-sign-in.net
 sparkasse.unangreifbarkeits-deckung.de
@@ -10836,6 +10858,7 @@ susuld.com
 suyin.eu
 suzanne-852843.zucj.buzz
 svalding.com
+svc.ha-teams.office.com #https://www.malwarebytes.com/de/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes
 svsqh.earliamendment.com
 svwynpj3.blob.core.windows.net
 svxyq.safavidmarkup.com
@@ -11801,6 +11824,7 @@ vitations.support
 vitligobanshe.live
 vitly.in
 vivaconagua.org
+vivid.smshero.vip #https://www.malwarebytes.com/de/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes
 viwmhe.franticthoughts.com
 vizreg1hdh2gdf0ghfd2ghjd0h10df.storage.googleapis.com
 vjijh.ariability.com.se
@@ -12366,6 +12390,7 @@ www.digitalcrown.com
 www.diplom-kriminalist.online
 www.dipublique.chaire.ulaval.ca
 www.directthruredir3ct.com
+www.distantcoding.com
 www.djselectamartin.de
 www.dogillas.com
 www.donegotaway.com
@@ -12484,6 +12509,7 @@ www.kostensenker.shop
 www.krone.at.thelockinmovie.com
 www.kupertos.com
 www.l2hkvtrk.com
+www.laggsolver.com
 www.laltrapagina.it
 www.landingpageredirect1.com
 www.langweiledich.net
@@ -12790,6 +12816,7 @@ wx3cw5xcw3x2c1.s3.us-east-005.backblazeb2.com
 wx3cw5xcw3xc1w32c1.s3.us-east-005.backblazeb2.com
 wx5c23wx1cwxc.storage.googleapis.com
 wx6cw6cwx69cwx6c9w6cwxc.s3.us-east-005.backblazeb2.com
+wx98c7wx65cwx32c1.website.yandexcloud.net
 wxbci.hotspecial.org
 wxc1w5xc2w3xc1wxc21.s3.us-east-005.backblazeb2.com
 wxc21wx5cwx32c1wxc.s3.us-east-005.backblazeb2.com
@@ -12948,6 +12975,7 @@ xtpansfcocs.groovniest.com
 xtsnnujqxtshplhdcd.oppxsyj6hwlcwjpn.com
 xuivje.towingsos.com
 xur.layerground.com
+xuug1r-4qn29h-p1wzyq-jhruyoy3wd.s3.ap-southeast-1.amazonaws.com
 xuvcyrofhgxstpfrvd.lyteduknhfezg.com
 xv330ia.approxies.in
 xv978e1.approxies.in
@@ -13198,6 +13226,7 @@ zerobuffer.pro
 zerram.shop
 zerz1grft2h0gt12hg21dht6541srt10hsrt1hdfg.website.yandexcloud.net
 zerzer1zer1ze0r1zer01ererer.s3.us-east-005.backblazeb2.com
+zest.hero-sms.ai #https://www.malwarebytes.com/de/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes
 zetimmelp.org
 zeueazuwrhw.hungaragua.com
 zezao.denverging.com
