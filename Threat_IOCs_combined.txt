@@ -416,7 +416,6 @@ mythickass.onthewifi.com #https://github.com/deepfield/public-research/blob/main
 141.11.88.108 #https://github.com/deepfield/public-research/blob/main/iranbot/iocs/ips.csv
 45.205.1.36 #https://github.com/deepfield/public-research/blob/main/iranbot/iocs/ips.csv
 103.83.87.122 #https://github.com/deepfield/public-research/blob/main/iranbot/iocs/ips.csv
-103.83.87.122 https://github.com/deepfield/public-research/blob/main/iranbot/iocs/ips.csv
 thespacemachines.st #https://github.com/deepfield/public-research/blob/main/katana/iocs/domains.csv
 okiloveyoupleasedonttouchme.net #https://github.com/deepfield/public-research/blob/main/katana/iocs/domains.csv
 imsowiwiwiwiwi.com #https://github.com/deepfield/public-research/blob/main/katana/iocs/domains.csv
