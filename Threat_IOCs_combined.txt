@@ -6057,3 +6057,1701 @@ youtubeconnect00.webcindario.com
 ztm.webcindario.com
 manitolapara.webcindario.com
 verifi-card.webcindario.com
+#
+# https://securelist.com/tr/head-mare-targets-trueconf-server-with-phantomcore/120988/ - 2026-08-21
+81.177.32.12
+194.87.239.71
+194.87.93.153
+38.244.205.244
+31.59.102.61
+penzadogshelter.site
+trendy-market.site
+bright-deals.site
+nova-stream.site
+rinomobile.ink
+urbanpixel.store
+flexish.shop
+media-hub.today
+cosmetic-deals.store
+vks.gossopka.forum
+#
+# https://securelist.com/tr/armored-likho-apt-with-busysnake-stealer/120292/ 2026-08-21
+winupdate.live
+arvax.xyz
+varenie.live
+lvl99.store
+onetoken.ink
+winupdate.ink
+grked.online
+ndrt.ink
+myboard.chickenkiller.com
+myboard.twilightparadox.com
+159.198.41.140
+159.198.75.219
+159.198.32.222
+69.67.173.153
+#
+# https://securelist.com/tr/hellonet-vipnet/120700/ - 2026-08-21
+5.39.253.206
+176.32.34.135
+#
+# https://www.stepsecurity.io/blog/arrayref-rust-crate-supply-chain-attack#indicators-of-compromise 2026-08-22
+23.254.167.107
+23.254.165.112
+23.254.167.216
+hwsrv-798836.hostwindsdns.com
+#
+# https://securelist.com/armored-likho-still-toolkit/121033/ 2026-08-22
+orderapiserver.info
+tg4service.com
+srwinservice.com
+screenserv.com
+windowserv.net
+managementapiservice.com
+service8date.com
+updateservs.com
+#
+# https://securelist.com/mirage-kitten-new-tools/120811/ 2026-08-22
+smartconnect.azurewebsites.net
+businessmixture.com
+global-reds.com
+maadinglobal.com
+Business-deegital.com
+business-deegital.azurewebsites.net
+businessdeegital.azurewebsites.net
+neexportfolio.azurewebsites.net
+neexportfolio.com
+neexportfolio.eastus.cloudapp.azure.com
+172.86.98.113
+aecert.org
+realhealthshop.com
+tjconsultingservices.com
+thehealth-life.com
+buisness-centeral-transportation.com
+healthcarezoom-centeral.azurewebsites.net
+healthcarezoomcenteral.azurewebsites.net
+healthcarezoomcenteral.org
+toadreport.azurewebsites.net
+business-startup.azurewebsites.net
+businessstartup.azurewebsites.net
+#
+#https://securelist.com/octlurk-silklurk-backdoors-central-asia/120840/ - 2026-08-22
+dns.multitoconference.com
+tj.tajikistandip.com
+fm01.clouddevicemetrics.com
+confbase.mdpsupport.net
+digital.leroymerling.com
+api2.annoyingremote.com
+about.blsouqs.com
+ssl.blsouqs.com
+45.138.157.165
+dns.ssentialserv.xyz
+154.196.162.76
+tyhbgtyuj.gleeze.com
+95.179.210.138
+wedfcvbn.gleeze.com
+45.77.136.228
+rgnojb.casacam.net
+95.179.141.26
+ctyuhjerf.kozow.com
+45.32.152.50
+212.11.39.138
+195.86.120.2
+uyhvfredc.accesscam.org
+154.196.187.73
+45.61.149.112
+wedfcvbn.gleeze.com
+45.77.136.228
+gycudore.kozow.com
+64.7.198.130
+#
+#https://securelist.com/tr/the-soc-files-screenconnect-campaign-with-asyncrat/120472/ - 2026-08-22
+mora1987.work.gd
+ds4windows.io
+direct-download.giize.com
+tmodloader.org
+tmodloader.app
+ds4windows.net
+losslessscaling.app
+processhacker.dev
+steamtools.pro
+dnsjumper.app
+free-download.camdvr.org
+defendercontrol.org
+dns-jumper.com
+cpuz.app
+processhacker.org
+processhacker.app
+steamtools.cc
+cpuz.pro
+wallpaper-engine.app
+processhacker.net
+antimicrox.net
+defendercontrol.app
+tmodloader.pro
+dnsjumper.io
+bandicam.app
+mgba.app
+dnsjumper.pro
+ferdium.app
+ds4windows.pro
+lossless-scaling.online
+defender-control.com
+gom-player.app
+defendercontrol.pro
+lossless-scaling.download
+antimicrox.pro
+mgba.pro
+lossless-scaling.app
+losslessscaling.pro
+mgba.dev
+tmodloader.download
+tmod-loader.com
+defendercontrol.download
+ferdium.pro
+deadreset.com
+gom-player.net
+crosshairx.pro
+libreoffice.pro
+studioobs.com
+studio-obs.net
+crosshairxv2.com
+km-player.com
+corel-draw.net
+glary-utilities.com
+download-full-version.ooguy.com
+crosshair-x.com
+kms-tools.com
+studio-obs.com
+crosshairx.net
+clair-obscur-33.com
+vlc-player.net
+arksurvival-ascended.com
+elden-ringnightreign.com
+ready-ornot.com
+arma-reforger.com
+crusader-kings.com
+crosshairx2.com
+mediaplayerclassic.net
+bandizip.pro
+obs-studio.site
+ovr-advanced-settings.com
+studio-obs.pro
+vlc-media.com
+clair-obscur-33.town
+ovr-toolkit.com
+crusader-kings.church
+bandizip.net
+apexlegends.org
+obs-studio.pro
+vlc-media.net
+crosshairx.site
+monster-hunterwilds.com
+km-player.pro
+mediaplayerclassic.pro
+kms-tools.net
+fernbus-simulator.com
+studioobs.pro
+bandicam.cc
+crystaldiskmark.cc
+crystaldiskmark.io
+crystaldiskmark.dev
+crystaldiskmark.app
+crystaldiskmark.pro
+bandicam.io
+fileget.loseyourip.com
+file-download-crosshairx.giize.com
+all-toll-free.loseyourip.com
+mpc-update.giize.com
+all-toll-free.publicvm.com
+198.23.185.81
+direct-download.giize.com
+servermanagemen.xyz
+185.254.97.249
+r.manage-server.xyz
+45.145.41.205
+winservec.net
+manageserver.xyz
+cloudsynn.com
+pingserv.pro
+ehostservers.xyz
+serverdnsplan.net
+pingpanl.pro
+managedevice.xyz
+edgeserv.ru
+#
+# https://securelist.com/tr/daemon-tools-backdoor/119654/ - 2026-08-22
+env-check.daemontools.cc
+38.180.107.76
+#
+# https://securelist.com/tr/silver-fox-tax-notification-campaign/120038/ - 2026-08-22
+45.118.133.203
+abc.fetish-friends.com
+abc.3mkorealtd.com
+abc.sudsmama.com
+abc.woopami.com
+abc.ilptour.com
+abc.petitechanson.com
+abc.doublemobile.com
+mcagov.cc
+roldco.com
+vnc.kcii2.com
+abc.haijing88.com
+108.187.37.85
+108.187.42.63
+207.56.138.28
+108.187.41.221
+154.82.81.192
+139.180.128.251
+192.229.115.229
+207.56.119.216
+192.163.167.14
+45.192.219.60
+192.238.205.47
+45.32.108.178
+57.133.212.106
+154.82.81.205
+#
+# https://securelist.com/tr/cpu-z/119365/ - 2026-08-22
+welcome.supp0v3.com
+cahayailmukreatif.web.id
+pub-45c2577dbd174292a02137c18e7b1b5a.r2.dev
+transitopalermo.com
+vatrobran.hr
+#
+# https://securelist.com/tr/notepad-supply-chain-attack/120106/ - 2026-08-22
+45.32.144.255
+95.179.213.0
+45.76.155.202
+45.77.31.210
+cdncheck.it.com
+safe-dns.it.com
+api.skycloudcenter.com
+59.110.7.32
+124.222.137.114
+api.wiresguard.com
+#
+#https://securelist.com/android-head-unit-malware/121106/ 2026-08-23
+xmsae.sbs
+ishano456.sbs
+xshaon123.sbs
+kshahnd.sbs
+mdsjhd.sbs
+nmnsny.sbs
+kookjar.com
+ty54fgd435.my
+ue886578433.online
+ty4523.space
+144.217.243.201
+107.151.248.132
+128.14.210.58
+ovcloudcontrol.cdn.cardoor.cn
+#
+#https://github.com/Cisco-Talos/IOCs/blob/main/2026/08/UAT-10147%20deploys%20SPECTRE.txt - 2026-08-24
+js.jyzyps.com
+vn.mma888.cc
+thceshi.healthsave.net
+www.xxxx.vip
+spider.xxxx.com
+vip8888vn.xyz
+b.niupilao.vip
+vip.niupilao.vip
+udvyiwvfs.cyou
+27.124.2.46
+27.124.2.48
+27.124.2.52
+139.180.197.150
+#
+#https://github.com/Cisco-Talos/IOCs/blob/main/2026/08/UAT-10147%20integrates%20agentic%20AI.txt - 2026-08-24
+adminapi.tippusoni.in
+kl21177.com
+139.180.197.150
+18.140.163.186
+#
+#https://github.com/Cisco-Talos/IOCs/blob/main/2026/08/dissecting-the-jwr-phishing-framework.txt - 2026-08-24
+xiaomimiyizu.xyz
+dubai.customszf.top
+anzrewardse-homes.info
+bendigo-homesa.info
+hsbcrewards-homesa.info
+hsbcrewards-homesb.info
+lloydsbank-homesa.info
+qantasrewardsa-homes.info
+qantasrewardsb-homes.info
+rbcroyalbank-homesa.cc
+rbcroyalbank-homesc.info
+rbcroyalbank-homesd.info
+suncorp-homesa.info
+suncorp-homesb.info
+westpacone-homesc.info
+westpacone-homesg.info
+47.88.78.148
+47.90.223.199
+43.156.227.15
+43.160.241.151
+ae.emiratea-post.top 
+ae.emiratec-post.top 
+ae.emiratee-post.top 
+ae.emiratei-post.top 
+ae.emiratek-post.top 
+ae.emirateo-post.top 
+ae.emirateq-post.top 
+ae.emirates-ipost.top 
+ae.emirates-rpost.top 
+ae.emirates-spost.top 
+ae.emirates-tpost.top 
+ae.emirates-xpost.top 
+ae.emirates-zpost.top 
+ae.emiratet-post.top 
+ae.emirateu-post.top 
+ae.emiratev-post.top 
+ae.emiratew-post.top 
+ae.emiratex-post.top 
+ae.emiratey-post.top 
+ae.emiratez-post.top 
+bankfab-alelt.cfd 
+bankfab-alert.cfd 
+bankfab-secure.cfd 
+emirateopost.top 
+emiratespost.fnbd.top 
+emiratespost.fnbg.top 
+emiratespost.fnbm.top 
+emiratespost.fnbs.top 
+emiratespost.fnbx.top 
+emiratespost.fnnf.top 
+emiratespost.fnnh.top 
+emiratespost.fnnm.top 
+emiratespost.fnnp.top 
+emiratespost.fnnr.top 
+emiratespost.fnnw.top 
+emiratespost.fnny.top 
+emiratespost.tcrac.top 
+emiratespost.tcrai.top 
+emiratespost.tcrak.top 
+emiratespost.tcral.top 
+emiratespost.tcram.top 
+emiratespost.tcrav.top 
+emiratespost.tcrax.top 
+emiratespost.tcraz.top 
+emiratespost.tcrkc.top 
+emiratespost.tcrke.top 
+emiratespost.tcrkn.top 
+emiratespost.tcrku.top 
+emiratespost.tcrkv.top 
+emiratespost.tcrkx.top 
+emiratespost.traxck.top 
+emiratespost.trzq.top 
+emiratespost.trzw.top 
+emiratespost.tyrca.top 
+emiratespost.tyrcx.top 
+erp-account-sg.top 
+erp-backend-account.top 
+erp.sg-to.top 
+erp.sg-tol.top 
+erp.sg-tollr.top 
+erp.sg-yi.top 
+erp.sg-yu.top 
+lta-billcenter.com 
+lta-billtrack.com 
+lta-epayment.top 
+lta-motoring-portal.top 
+lta-obu-upgrade.top 
+lta.erp-call.top 
+lta.erp-calx.top 
+lta.erp-caly.top 
+lta.erp-calz.top 
+lta.fntq.top 
+lta.fntt.top 
+lta.gov-bilv.com 
+lta.gov.onemotorlng.cc 
+lta.gov.onemotoryng.cc 
+lta.gov.sg-bila.top 
+lta.gov.sg-billc.top 
+lta.gov.sg-billv.top 
+lta.gov.sg-billx.top 
+lta.gov.sg-billz.top 
+lta.gov.sg-bils.top 
+lta.gov.sg-bilx.top 
+lta.gov.sg-bilz.top 
+lta.gov.sg-erpa.top 
+lta.gov.sg-erpb.com 
+lta.gov.sg-erpc.com 
+lta.gov.sg-erpd.top 
+lta.gov.sg-erpe.top 
+lta.gov.sg-erpf.top 
+lta.gov.sg-erpg.top 
+lta.gov.sg-erph.top 
+lta.gov.sg-erpi.top 
+lta.gov.sg-erpp.top 
+lta.gov.sg-erpq.top 
+lta.gov.sg-erpr.top 
+lta.gov.sg-erps.com 
+lta.gov.sg-erps.top 
+lta.gov.sg-erpt.top 
+lta.gov.sg-erpv.com 
+lta.gov.sg-erpw.top 
+lta.gov.sg-erpx.com 
+lta.gov.sg-erpy.top 
+lta.gov.sg-erpz.com 
+lta.gov.sg.billaro.top 
+lta.gov.sg.billpilot24.com 
+lta.gov.sg.billscan24.com 
+lta.gov.sg.billuno.top 
+lta.gov.sg.citefix.top 
+lta.gov.sg.citego.top 
+lta.gov.sg.citehub.top 
+lta.gov.sg.citenow.top 
+lta.gov.sg.citepay.top 
+lta.gov.sg.citepro.top 
+lta.gov.sg.finebox.top 
+lta.gov.sg.finedue.top 
+lta.gov.sg.finego.top 
+lta.gov.sg.finenow.top 
+lta.gov.sg.fineuno.top 
+lta.gov.sg.finevia.top 
+lta.gov.sg.fntb.top 
+lta.gov.sg.fntm.top 
+lta.gov.sg.fntn.top 
+lta.gov.sg.fntx.top 
+lta.gov.sg.invora1.com 
+lta.gov.sg.siobu.top 
+lta.gov.sg.tickaid.top 
+lta.gov.sg.tickbot.top 
+lta.gov.sg.tickdue.top 
+lta.gov.sg.tickfix.top 
+lta.gov.sg.ticklaw.top 
+lta.gov.sg.tickpay.top 
+lta.gov.sg.tnfi.top 
+lta.gov.sg.tnfj.top 
+lta.gov.sg.tnfk.top 
+lta.gov.sg.tnfl.top 
+lta.gov.sg.tnfp.top 
+lta.gov.sg.tnfq.top 
+lta.gov.sg.tnfr.top 
+lta.gov.sg.tnft.top 
+lta.gov.sg.tnfu.top 
+lta.gov.sg.tnfw.top 
+lta.gov.sg.tnfy.top 
+lta.gov.sg.tnpf.top 
+lta.gov.sg.tnyb.top 
+lta.gov.sg.tnyc.top 
+lta.gov.sg.tnyf.top 
+lta.gov.sg.tnyg.top 
+lta.gov.sg.tnyh.top 
+lta.gov.sg.tnys.top 
+lta.gov.sg.tnyx.top 
+lta.gov.sg.tnyz.top 
+lta.gov.sg.tszb.top 
+lta.gov.sg.tszc.top 
+lta.gov.sg.tszd.top 
+lta.gov.sg.tszh.top 
+lta.gov.sg.tszm.top 
+lta.gov.sg.tszn.top 
+lta.gov.sg.tszp.top 
+lta.gov.sg.tszz.top 
+lta.passt.xin 
+lta.passy.xin 
+lta.sg.billengine.top 
+lta.sg.billflow24.com 
+lta.sg.billhub24.com 
+lta.sg.billkeeper.top 
+lta.sg.billpaynow.top 
+lta.sg.billup.top 
+lta.sg.billworks.top 
+lta.sg.feeka.top 
+lta.sg.feekc.top 
+lta.sg.feekt.top 
+lta.sg.feekz.top 
+lta.sg.feery.top 
+lta.sg.feete.top 
+lta.sg.feetn.top 
+lta.sg.feety.top 
+lta.sg.feetz.top 
+lta.sg.feeva.top 
+lta.sg.feevl.top 
+lta.sg.feevr.top 
+lta.sg.feevs.top 
+lta.sg.feevt.top 
+lta.sg.feevx.top 
+lta.sg.feeys.top 
+lta.sg.finebot.top 
+lta.sg.finepay.top 
+lta.sg.fnbq.top 
+lta.sg.fnbr.top 
+lta.sg.fnbw.top 
+lta.sg.fnby.top 
+lta.sg.fntd.top 
+lta.sg.fntf.top 
+lta.sg.fntg.top 
+lta.sg.fnth.top 
+lta.sg.fntj.top 
+lta.sg.fntk.top 
+lta.sg.fntl.top 
+lta.sg.fntz.top 
+lta.sg.forfeite.top 
+lta.sg.forfeity.top 
+lta.sg.fytb.top 
+lta.sg.fytn.top 
+lta.sg.fytr.top 
+lta.sg.gov-bll.com 
+lta.sg.gov-blla.com 
+lta.sg.gov-bllb.com 
+lta.sg.gov-bllm.com 
+lta.sg.gov-blln.com 
+lta.sg.gov-bllv.com 
+lta.sg.gov-bllx.com 
+lta.sg.tnfb.top 
+lta.sg.tnfz.top 
+lta.sg.totls.top 
+lta.sg.totly.top 
+lta.sg.trrb.top 
+lta.sg.trrc.top 
+lta.sg.trrd.top 
+lta.sg.trrf.top 
+lta.sg.trrg.top 
+lta.sg.trrj.top 
+lta.sg.trrk.top 
+lta.sg.trrm.top 
+lta.sg.trrn.top 
+lta.sg.trrs.top 
+lta.sg.trrx.top 
+lta.sg.trrz.top 
+lta.sg.tryb.top 
+lta.sg.tryd.top 
+lta.sg.tryf.top 
+lta.sg.tryg.top 
+lta.sg.tryk.top 
+lta.sg.tryn.top 
+lta.sg.ttyb.top 
+lta.sg.ttye.top 
+lta.sg.ttym.top 
+lta.sg.ttyn.top 
+lta.sg.ttyr.top 
+lta.sg.ttyz.top 
+lta.sg.vrlia.top 
+lta.sg.vrlis.top 
+lta.sg.vrllr.top 
+lta.sg.vrllu.top 
+lta.sg.vrllye.top 
+lta.sg.vrllyl.top 
+lta.sg.vrllym.top 
+lta.sg.vrllys.top 
+lta.sg.vrllyu.top 
+lta.sg.vrllyz.top 
+lta.sg.vrlya.top 
+lta.sg.vrlyd.top 
+lta.sg.vrlye.top 
+lta.sg.vrlys.top 
+lta.sg.vrlyu.top 
+lta.sg.vrlyz.top 
+lta.tollerpi.top 
+lta.tollerpl.top 
+lta.tollerpn.top 
+lta.tollerps.top 
+lta.tollerpt.top 
+lta.tollerpz.top 
+lta.tollvre.top 
+lta.tollvrle.top 
+lta.tollvrlg.top 
+lta.tollvrlx.top 
+lta.tszl.top 
+lta.tszs.top 
+lta.vrlea.top 
+lta.vrlek.top 
+lta.vrler.top 
+lta.vrles.top 
+lta.vrley.top 
+lta.vrlez.top 
+lta.vrlit.top 
+lta.vrliy.top 
+mass.gov-cuod.shop 
+mass.gov-fkpa.one 
+mass.gov-wsgz.one 
+mass.gov-zfsu.shop 
+ninjavan.adrup.top 
+ninjavan.cokta.top 
+ninjavan.cokts.top 
+ninjavan.cokyt.top 
+ninjavan.errpk.top 
+ninjavan.fixpk.top 
+ninjavan.fnyp.top 
+ninjavan.fnyx.top 
+ninjavan.kippa.top 
+ninjavan.kipps.top 
+ninjavan.kyeea.top 
+ninjavan.kyetl.top 
+ninjavan.kyetv.top 
+ninjavan.kyetw.top 
+ninjavan.locfx.top 
+ninjavan.mszc.top 
+ninjavan.mszn.top 
+ninjavan.mszt.top 
+ninjavan.mszz.top 
+ninjavan.mzdx.top 
+ninjavan.mzfb.top 
+ninjavan.mzfc.top 
+ninjavan.mzgb.top 
+ninjavan.mzgm.top 
+ninjavan.mzst.top 
+ninjavan.trkfx.top 
+onemitoring.top 
+onemoatoring.top 
+onemoctoring.top 
+onemoitoring.top 
+onemoktoring.top 
+onemoltoring.top 
+onemostoring.top 
+onemotoring-pay.top 
+onemotoring-services.top 
+onemotoring.erp-fine.top 
+onemotoring.erp-finl.top 
+onemotoring.erp-fint.top 
+onemotoring.erp-finx.top 
+onemotoring.lta.amercex.top 
+onemotoring.lta.amercey.top 
+onemotoring.lta.feeba.top 
+onemotoring.lta.feebo.top 
+onemotoring.lta.feebs.top 
+onemotoring.lta.feebt.top 
+onemotoring.lta.fyta.top 
+onemotoring.lta.fytc.top 
+onemotoring.lta.fyte.top 
+onemotoring.lta.fytg.top 
+onemotoring.lta.fytp.top 
+onemotoring.lta.fyts.top 
+onemotoring.sg-erpk.top 
+onemotoring.sg-erpl.top 
+onemotoring.sg-fine.top 
+onemotoring.sg-finec.top 
+onemotoring.sg-fines.top 
+onemotoring.sg-finet.top 
+onemotoring.sg-finex.top 
+onemotoring.sg-finey.top 
+onemotoring.tollerpk.top 
+onemotoring.tollerpy.top 
+onemotoring.tollvrlv.top 
+onemotoring.tollvrly.top 
+onemotoring.tollvrlz.top 
+onemotoring.vrlerp.top 
+onemotoring.vrlerpe.top 
+onemotoring.vrlerps.top 
+onemotoring.vrlerpt.top 
+onemotoring.vrlerpv.top 
+onemotoring.vrlerpx.top 
+onemotoring.vrlerpy.top 
+onemotoring.vrlerpz.top 
+onemotoring.vrlerya.top 
+onemotoring.vrleryn.top 
+onemotoring.vrlerys.top 
+onemotoring.vrleryt.top 
+onemotoring.vrleryx.top 
+onemotoring.vrleryz.top 
+onemottoring.top 
+onemoytoring.top 
+onemytoring.top 
+parking.sg-ticket.top 
+parking.sg.bill-sc.com 
+parking.sg.bill-sx.com 
+sg-erp-billing.top 
+sg-erp-digital.top 
+sg-erp-obu.top 
+sg-roadtolls.top 
+sg.erp.lta-fare.top 
+sg.erp.lta-fart.top 
+sg.erp.lta-farx.top 
+sg.erp.lta-fary.top 
+gov.sg-erpy.top
+lta.fytc.top
+sg.siobu.top
+sg.vrllye.top
+sg.tryb.top
+sg.fntf.top
+lta.feeba.top
+sg.vrlyz.top
+lta.amercey.top
+mzgb.top
+sg.fntx.top
+sg.citenow.top
+sg.feevr.top
+sg.tryg.top
+sg.finego.top
+sg.feeva.top
+sg.fntl.top
+gov.sg.invora1.com
+sg.ttyb.top
+sg.finenow.top
+gov.sg.fntm.top
+sg.tnfj.top
+sg.tnfz.top
+sg.billengine.top
+gov.sg.fntn.top
+sg.tnyb.top
+gov.sg-erpr.top
+sg.vrllyz.top
+gov.sg.citefix.top
+sg.feete.top
+sg.tnyh.top
+sg.tnft.top
+sg.fntk.top
+gov.sg.tnfi.top
+sg.ttye.top
+gov.sg.citego.top
+sg.vrllym.top
+sg.citehub.top
+sg.feekz.top
+gov.sg-erpq.top
+sg.bill-sc.com
+sg.vrlys.top
+sg.fnby.top
+sg.billup.top
+sg.feery.top
+sg.fntb.top
+gov.sg-billc.top
+gov.sg.tnpf.top
+sg.feevs.top
+sg.tnys.top
+gov.sg.tnyb.top
+gov.sg.tnyg.top
+sg.totly.top
+sg.ttym.top
+gov.sg.tickbot.top
+sg.trrf.top
+gov.sg.tnyh.top
+sg.fntm.top
+sg.tnyf.top
+gov.sg.citepay.top
+sg.fntd.top
+sg.tnfq.top
+gov.sg.finebox.top
+gov.sg.tszz.top
+sg.trrm.top
+gov.sg.tnft.top
+lta.fyte.top
+sg.forfeite.top
+gov.sg-erpg.top
+sg.feevt.top
+sg.fntn.top
+sg.tryn.top
+sg.forfeity.top
+lta.feebo.top
+sg.vrllyu.top
+sg.vrllr.top
+sg.tnfb.top
+gov.sg-erps.com
+gov.sg-erpx.com
+gov.sg.tszp.top
+sg.feevx.top
+sg.finepay.top
+sg.tryf.top
+xn--onemooring-rwia.top
+sg.vrlye.top
+sg.ttyz.top
+sg.feetn.top
+gov.sg-billx.top
+sg.invora1.com
+gov.sg-erpe.top
+ttyz.top
+sg.fntz.top
+cokyt.top
+gov.sg.finego.top
+sg.gov-bllm.com
+gov.sg-erpv.com
+sg.vrlia.top
+sg.tnfi.top
+sg.vrllu.top
+billuno.top
+sg.billpilot24.com
+sg.tszd.top
+lta.fytp.top
+sg.vrllyl.top
+sg.fnth.top
+sg.trrd.top
+sg.gov-bllb.com
+sg.finebot.top
+sg.billpaynow.top
+sg.citepro.top
+sg.vrlis.top
+gov.sg.tickfix.top
+sg.tickpay.top
+gov.sg.tnyc.top
+gov.sg-bila.top
+sg.tryk.top
+sg.billscan24.com
+sg.fytn.top
+gov.sg-erpi.top
+sg.tszn.top
+sg.billuno.top
+sg.feevl.top
+fntj.top
+gov.sg.tnyx.top
+gov.sg-erpd.top
+gov.sg.tszh.top
+gov.sg.tszc.top
+lta.fyta.top
+sg.tnyx.top
+sg.finedue.top
+gov.sg.billuno.top
+gov.sg.tszd.top
+gov.sg.tickdue.top
+gov.sg.tnfr.top
+sg.feeka.top
+sg.billkeeper.top
+gov.sg-bils.top
+sg.feekc.top
+sg.vrlyu.top
+gov.sg.tnfj.top
+gov.sg-erpp.top
+sg.trrk.top
+gov.sg.tnfp.top
+gov.sg.tnfw.top
+sg.tnfk.top
+sg.fnbr.top
+sg.ttyr.top
+gov.sg.citepro.top
+sg.billhub24.com
+sg.fnbw.top
+sg.billworks.top
+sg.vrlyd.top
+gov.sg.finenow.top
+sg.citego.top
+gov.sg-erpt.top
+sg.fytr.top
+sg.ticklaw.top
+sg.tnyc.top
+sg.trrg.top
+sg.finebox.top
+gov.sg.tszn.top
+sg.tickdue.top
+sg.trrx.top
+sg.tnfr.top
+sg.totls.top
+gov.sg.tnyf.top
+gov.sg.tnfq.top
+sg.fntg.top
+sg.tnfl.top
+sg.feeys.top
+sg.feetz.top
+sg.vrllys.top
+sg.fntj.top
+lta.feebt.top
+gov.sg-billz.top
+sg.citepay.top
+sg.fineuno.top
+sg.tnpf.top
+gov.sg.billscan24.com
+gov.sg-erpa.top
+lta.fyts.top
+gov.sg-erpw.top
+fnbm.top
+gov.sg.tnys.top
+gov.onemotoryng.cc
+sg.tickaid.top
+sg.vrlya.top
+sg.finevia.top
+gov.sg-billv.top
+sg.tnfu.top
+sg.gov-bllv.com
+sg.tnyz.top
+gov.sg.tszb.top
+gov.sg.citenow.top
+sg.fytb.top
+gov.sg.tickpay.top
+lta.feebs.top
+fntk.top
+gov.sg.fntb.top
+sg.trrb.top
+gov.sg.tnfl.top
+gov.sg.citehub.top
+sg.billaro.top
+gov.sg.finedue.top
+gov.onemotorlng.cc
+gov.sg.billaro.top
+sg.trrj.top
+sg.trrc.top
+fntn.top
+sg.tnfw.top
+gov.sg.tszm.top
+gov.sg-erpf.top
+gov.sg.tnfu.top
+gov.sg-erpb.com
+sg.feety.top
+sg.feekt.top
+gov.sg-erpc.com
+sg.citefix.top
+gov.sg.ticklaw.top
+sg.trrs.top
+sg.billflow24.com
+gov.sg.siobu.top
+sg.fnbq.top
+mzdx.top
+gov.sg.tnfk.top
+sg.tickfix.top
+gov.sg.billpilot24.com
+sg.tszh.top
+sg.gov-blln.com
+sg.tickbot.top
+gov.sg.tnyz.top
+sg.tnyg.top
+gov.sg.finevia.top
+sg.bill-sx.com
+gov.sg.tnfy.top
+#
+#https://github.com/Cisco-Talos/IOCs/blob/main/2026/07/artoken-inside-an-eviltokens-affiliate-panel-targeting-microsoft-365.txt - 2026-08-24
+pamconj.com
+dashboard-bl.pamconj.com
+spx.pamconj.com
+clear90489058903-document.workers.dev
+917bedb0-554e-a8b9-79f1-docviewer.clear90489058903-document.workers.dev
+321a1392-939d-3bf5-4040-docviewer.clear90489058903-document.workers.dev
+98c4c82e-2d81-0837-e3d6-docviewer.clear90489058903-document.workers.dev
+112838d8-9a75-2e90-d63b-docviewer.clear90489058903-document.workers.dev
+aquaclaude-09494-9099403-docviewer.clear90489058903-document.workers.dev
+e5469cec-124a-c84f-abaa-docviewer.clear90489058903-document.workers.dev
+50a201fd-dd2d-cf72-5fa6-onedrive.clear90489058903-document.workers.dev
+reynoldsjace5.workers.dev
+50a201fd-dd2d-cf72-5fa6-adobe2.reynoldsjace5.workers.dev
+172.67.214.35
+#
+#https://github.com/Cisco-Talos/IOCs/blob/main/2026/07/chaos-msarat.txt - 2026-08-24
+172.86.126.18
+is-01-ast.ols-img-12.workers.dev
+#
+#https://github.com/Cisco-Talos/IOCs/blob/main/2026/07/new-starland-rat-and-WLDR-implant-campaign.txt 2026-08-24
+eorthopaedics.com
+sastoro.com
+zynaris.io 
+alphabitcapital.info
+niggerdemon.in
+web-devtools.com
+aipythondevs.com
+windowscreenrepairnearme.com
+104.248.233.104
+192.81.216.250
+74.114.119.201
+178.255.126.39
+193.149.176.254
+185.238.191.234
+#
+# https://github.com/Cisco-Talos/IOCs/blob/main/2026/07/uat-7810.txt - 2026-08-24
+194.233.92.26
+217.15.160.247
+217.15.164.147
+95.182.100.231
+#
+#https://github.com/Cisco-Talos/IOCs/blob/main/2026/05/cloudz-pheno-infostealer.txt - 2026-08-24
+calm-wildflower-1349.hellohiall.workers.dev
+orange-cell-1353.hellohiall.workers.dev
+round-cherry-4418.hellohiall.workers.dev
+185.196.10.136
+#
+#https://github.com/Cisco-Talos/IOCs/blob/main/2026/05/commodity_badiis.txt - 2026-08-24
+143.92.36.109
+38.181.52.147
+154.23.186.99
+lee.6686ty.vip
+154.36.149.4
+iis.01nmwe.xyz
+45.194.17.133
+#
+#https://github.com/Cisco-Talos/IOCs/blob/main/2026/05/uat-8302.txt - 2026-08-24
+www.drivelivelime.com
+msiidentity.com
+trafficmanagerupdate.com
+image.update-kaspersky.workers.dev
+update-kaspersky.workers.dev
+85.209.156.3
+185.238.189.41
+103.27.108.55
+38.54.32.244
+45.140.168.62
+88.151.195.133
+156.238.224.82
+45.135.135.100
+#
+#https://github.com/Cisco-Talos/IOCs/blob/main/2026/04/axios_supply_chain_incident.txt - 2026-08-24
+sfrclak.com
+142.11.206.73
+#
+#https://github.com/Cisco-Talos/IOCs/blob/main/2026/04/n8n-n8mare.txt - 2026-08-24
+onedrivedownload.zoholandingpage.com
+majormetalcsorp.com
+pagepoinnc.app.n8n.cloud
+monicasue.app.n8n.cloud
+#
+#https://github.com/Cisco-Talos/IOCs/blob/main/2026/04/new-lua-based-malware-lucidrook.txt - 2026-08-24
+1.34.253.131
+59.124.71.242
+d.2fcc7078.digimg.store
+#
+#https://github.com/Cisco-Talos/IOCs/blob/main/2026/04/powmix-botnet-targets-czech-workforce.txt - 2026-08-24
+erpapp-901-53f1ea72f036.herokuapp.com
+crmassets-4a69a8e2b3ee.herokuapp.com
+crmassets-351-0ac3da22f804.herokuapp.com
+erpsync-120-f41cdcf813e4.herokuapp.com
+#
+#https://github.com/Cisco-Talos/IOCs/blob/main/2026/04/uat-10608.txt - 2026-08-24
+144.172.102.88
+172.86.127.128
+144.172.112.136
+144.172.117.112
+#
+#https://github.com/Cisco-Talos/IOCs/blob/main/2026/03/iran-middle-east.txt - 2026-08-24
+iuumfgrrnuhb.zhivachkapro.com
+terymar.com
+elvenforest.s3.us-east-005.backblazeb2.com
+uppdatefile.com
+gitempire.s3.us-east-005.backblazeb2.com
+moonzonet.com
+serialmenot.com
+#
+#https://github.com/Cisco-Talos/IOCs/blob/main/2026/03/uat-9244.txt - 2026-08-24
+149.28.25.33
+154.205.154.194
+154.205.154.65
+154.205.154.70
+154.223.21.130
+154.223.21.194
+158.247.238.240
+216.238.112.222
+216.238.123.242
+216.238.94.37
+38.54.125.134
+38.60.199.34
+45.32.106.94
+45.77.34.194
+45.77.41.141
+47.76.100.159
+64.190.113.170
+64.95.10.253
+185.196.10.247
+xtibh.com
+xcit76.com
+bloopencil.net
+185.196.10.38
+212.11.64.105
+185.196.10.247
+#
+#https://github.com/Cisco-Talos/IOCs/blob/main/2026/02/knife-cutting-the-edge.txt - 2026-08-24
+ad.scgawj.com
+43.155.62.54
+210.56.49.72
+43.132.105.118
+89.195.5.18
+43.155.62.54
+47.238.107.83
+43.132.205.118
+110.92.64.117
+110.92.64.17
+61.139.76.99
+47.93.54.134
+49.89.41.187
+60.205.148.180
+117.175.185.81
+110.185.104.180
+47.93.54.134
+117.175.185.81
+47.93.54.134
+49.89.41.187
+110.92.64.17
+#
+#https://github.com/Cisco-Talos/IOCs/blob/main/2026/02/new-dohdoor-malware-campaign.txt - 2026-08-24
+gITkzxd.pNUIScKMhWAgZvdyJRlBEFT.SoFtwaRE
+GppiwoGwNdiakkDU.pnuiSckMHwaGzvDYjRLbeFt.SoFTWARe
+lBaNDUgZCFG.deepInspectiOnSYSTEM.oNLiNE
+CJiTDrpwnnA.MswINsoFTUPDLoad.deSigN
+LsyPdQGXrEDfPx.MSwInSofTUpDloAd.dESign
+sDXsIol.PNUIsckmHwAgzVdYJRlbeFT.SoftWarE
+ezQrvkFgEJWCTDNc.pNuiSCKMhwAgZvdyjrlBEFT.softwarE
+lLalWpIJnjskClwY.PnUiscKMhWaGzVdyJRlBEfT.SofTWaRe
+#
+#https://github.com/Cisco-Talos/IOCs/blob/main/2026/01/uat-8099-new-persistence-mechanisms-and-regional-focus.txt - 2026-08-24
+7070-ppxcx-a1-3gg5ufwp666ee644-1300076834.tcb.qcloud.la
+go1.kmm5tn.ceye.io
+404.imxzq.com
+tdk.hunanduodao.com
+404.imxzq.com
+404.jmfwy.com
+799.cors5.vip
+fql.jmfwy.com
+tdk.jmfwy.com
+th.gtwql.com
+thov.hunanduodao.com
+bxphp.westooo.com
+tdk.hunanduodao.com
+tdkfsdfa.cnmseo.com
+tz.jmfwy.com
+tz.ohtcm.com
+tz.suucx.com
+google.sneaws.com
+w3c.sneaws.com
+#
+#https://github.com/Cisco-Talos/IOCs/blob/main/2026/01/uat-8837.txt - 2026-08-24
+74.176.166.174
+20.200.129.75
+172.188.162.183
+4.144.1.47
+103.235.46.102
+#
+#https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html - 2026-08-25
+209.99.185.38
+cloudflare.milicare.in
+69.48.228.126
+#
+#https://www.mcafee.com/blogs/other-blogs/mcafee-labs/weedhack-minecraft-malware-fake-gaming-websites-seo-poisoning/ - 2026-08-25
+glazed-client.com/
+www.radium-client.com
+seedcrackerx.github.io
+xenonclient.com
+xenoclient.lol
+nova-client.com
+cheatlib.xyz
+meteorclients.com
+22qq-client.com
+kryptonclientcrack.lovable.app
+endmods.com
+#
+#https://www.gendigital.com/blog/insights/research/wordlistloader-delivering-amatera-via-clearfake-campaigns#indicators-of-compromise-(iocs) - 2026-08-24
+abogadosrosarinos.com
+aptisweb.com
+avene-hebergement.com
+https-xhamster.com
+www.caesarjaco.co.id
+skybap.shop
+health.luminexus.cc
+stream.luminfrastructure.cc
+stream.threatenbrick.cc
+yw.enhanceblabber.cc
+pmpo.cloudvector.cc
+dust.packetflow.cc
+updates.wildtrail.cc
+app-api.lensstory.cc
+proxy.fluxautomation.cc
+stream.pawpalace.cc
+dist.runtimeconsole.cc
+id.binaryharbor.cc
+wss.infrastructurecore.cc
+id.exhumepacifier.cc
+telegra.ph
+#
+#https://www.mcafee.com/blogs/other-blogs/mcafee-labs/crypto-clipper-wallet-swapping-browser-extension-malware/ - 2026-08-26
+google-services.cc
+devops-offensive.cc
+Zebregts.com
+#
+#https://www.mcafee.com/blogs/other-blogs/mcafee-labs/sinkholing-countloader-insights-into-its-recent-campaign/ - 2026-08-26
+memory-scanner.cc
+hell1-kitty.cc
+alphazero1-endscape.cc
+api-microservice-us1.com
+bucket-aws-s1.com
+bucket-aws-s2.com
+fileless-storage-s3.cc
+globalsnn1-new.cc
+globalsnn2-new.cc
+globalsnn3-new.cc
+handle-me-sv1.com
+hardware-office.cc
+health-smooth-eu1.com
+health-smooth-eu2.com
+health-smooth-eu3.com
+holiday-updateservice.com
+memory-protection-layer1.cc
+memory-protection-layer2.cc
+microservice-update-s1-bucket.cc
+microservice-update-s2-bucket.cc
+my-smart-house1.com
+polystore9-servicebucket.cc
+s3-updatehub.cc
+hardware-office.cc
+edr-security-bucket1.cc
+#
+#https://www.mcafee.com/blogs/other-blogs/mcafee-labs/new-research-operation-novoice-rootkit-malware-android/ - 2026-08-26
+api.googlserves.com
+api.uplogconfig.com
+avatar.ttaeae.com
+awslog.oss-accelerate.aliyuncs.com
+check.updateconfig.com
+config.googleslb.com
+config.updatesdk.com
+dnskn.googlesapi.com
+download.androidlogs.com
+fcm.androidlogs.com
+log.logupload.com
+logserves.s3-accelerate.amazonaws.com
+prod-log-oss-01.oss-ap-southeast-1.aliyuncs.com
+sao.ttbebe.com
+stat.upload-logs.com
+upload.crash-report.com
+nzxsxn.98kk89.com
+98kk89.com
+#
+#https://www.mcafee.com/blogs/other-blogs/mcafee-labs/ai-written-malware-vibe-coded-campaign/ - 2026-08-26
+41.216.188.184
+mydofiles.com
+getthishasg.live
+gocrazy.gg
+dystoria.cc
+85.235.75.242
+codeberg.org
+45.141.119.191
+kenovn.net
+1765000000.xyz
+46.151.182.238
+1770000000.xyz
+150.241.64.28
+109.120.177.217
+62.113.112.203
+evilmods.com
+ixpeering.dl.sourceforge.net
+cdndownloads.com
+#
+#https://www.mcafee.com/blogs/other-blogs/mcafee-labs/astaroth-banking-trojan-abusing-github-for-resilience/ - 2026-08-26
+91.220.167.72.host.secureserver.net
+clafenval.medicarium.help
+sprudiz.medicinatramp.click
+frecil.medicinatramp.beauty
+stroal.medicoassocidos.beauty
+strosonvaz.medicoassocidos.help
+gluminal188.trovaodoceara.sbs
+scrivinlinfer.medicinatramp.icu
+trisinsil.medicesterium.help
+brusar.trovaodoceara.autos
+gramgunvel.medicoassocidos.beauty
+blojannindor0.trovaodoceara.motorcycles
+1.tcp.sa.ngrok.io
+1.tcp.us-cal-1.ngrok.io
+5.tcp.ngrok.io
+7.tcp.ngrok.io
+9.tcp.ngrok.io
+#
+#https://www.mcafee.com/blogs/other-blogs/mcafee-labs/android-malware-promises-energy-subsidy-to-steal-financial-data/ - 2026-08-26
+pmmbe.github.io
+sqcepo.replit.app
+#
+#https://www.mcafee.com/blogs/other-blogs/mcafee-labs/android-malware-targets-indian-banking-users-to-steal-financial-info-and-mine-crypto/ - 2026-08-26
+www.sbi.mycardcare.in
+kotak.mycardcard.in
+axis.mycardcare.in
+indusind.mycardcare.in
+icici.mycardcare.in
+#
+#https://www.mcafee.com/blogs/other-blogs/mcafee-labs/fake-android-money-transfer-app-targeting-bengali-speaking-users/ - 2026-08-26
+taptapsendexchange.com
+taptapsendapk.com
+alinmapay.xyz.taptapsendapk.com
+#
+#https://www.mcafee.com/blogs/other-blogs/mcafee-labs/new-android-malware-campaigns-evading-detection-using-cross-platform-framework-net-maui/ - 2026-08-26
+120.27.233.135
+onlinedeskapi.com
+#
+#https://www.mcafee.com/blogs/internet-security/fake-toll-road-scam-texts-are-everywhere-these-cities-are-the-most-targeted/ - 2026-08-26
+paytollbysuab.top
+thetollroads-paytollhmm.world
+thetollroads-paytollxtd.world
+thetollroads-paytollwpc.world
+thetollroads-paytollolno.xin
+thetollroads-paytollktc.world
+thetollroads-paytoll.world
+paytollmit.vip
+paytollaqs.vip
+paytollcqb.top
+#
+#https://www.ic3.gov/CSA/2026/260826.pdf - 2026-08-26
+1.32.216.171
+8.148.149.147
+45.202.210.27
+jump.qt-proxy.org
+jump.qt-team.com
+securelink.qtproxy.xyz
+www.qtproxy.xyz
+23.95.220.192
+103.201.131.121
+109.236.48.121
+install.anticonstitutionally.sbs
+mail.fastsecurey.info
+www.fastsecurey.info
+206.119.167.207
+64.32.22.203
+148.135.90.22
+154.64.238.222
+154.64.238.247
+1.32.216.3
+1.32.216.4
+1.32.216.27
+1.32.216.33
+1.32.216.49
+1.32.216.77
+1.32.216.83
+1.32.216.92
+1.32.216.94
+1.32.216.104
+1.32.216.113
+1.32.216.123
+1.32.216.126
+1.32.216.130
+1.32.216.132
+1.32.216.145
+1.32.216.167
+1.32.216.177
+1.32.216.187
+1.32.216.225
+1.32.216.226
+23.225.180.171
+23.225.180.177
+23.225.195.20
+23.225.195.35
+23.225.195.44
+23.225.195.56
+27.124.24.220
+27.124.24.137
+38.14.63.7
+38.14.63.8
+38.14.63.179
+38.14.63.235
+45.147.200.105
+45.196.221[.]138 2026-08-04 Active 
+45.196.221[.]149 2026-07-03 2026-08-03 
+45.196.221[.]152 2026-07-03 2026-08-03 
+45.202.65[.]135 2025-10-24 2025-11-24 
+45.202.210[.]32 2026-06-05 2026-07-03 
+69.176.89[.]102 2023-05-07 2023-06-04 
+134.122.150[.]22 2026-08-04 Active 
+134.122.150[.]25 2026-08-04 Active 
+134.122.150[.]27 2027-07-03 2026-08-03 
+134.122.150[.]73 2026-05-08 2026-06-04 
+134.122.151[.]19 2026-05-08 2026-06-04 
+134.122.186[.]21 2025-10-24 2025-11-24 
+134.122.194[.]131 2026-01-26 2026-02-27 
+134.122.194[.]135 2026-06-05 2026-07-03 
+134.122.194[.]137 2026-06-05 2026-07-03 
+134.122.194[.]143 2025-10-24 2025-11-24 
+134.122.194[.]149 2026-04-07 2026-05-27 
+134.122.194[.]161 2026-01-26 2026-02-27 
+134.122.194[.]168 2025-12-24 2026-01-26 
+134.122.194[.]170 2026-02-27 2026-03-27 
+134.122.194[.]171 2026-04-07 2026-05-27 
+134.122.194[.]173
+134.122.194[.]198 2025-09-03 2025-10-03 
+134.122.194[.]209 2025-12-24 2026-01-26 
+134.122.194[.]217 2025-11-25 2025-12-24 
+134.122.194[.]222 2025-09-03 2025-10-03 
+134.122.194[.]232 2025-10-24 2025-11-24 
+134.122.194[.]235 2026-02-27 2026-03-27 
+134.122.206[.]11 2022-12-18 2025-03-17 
+137.220.181[.]142 2024-11-07 2025-03-21 
+137.220.181[.]143 2024-11-07 2025-03-21 
+137.220.181[.]196 2024-05-31 2025-03-20 
+137.220.244[.]18 2024-05-31 2025-04-27 
+137.220.244[.]23 2024-05-31 2025-04-27 
+154.38.104[.]144 2024-12-18 2025-06-02 
+154.38.105[.]11 2024-05-31 2025-03-17 
+154.38.105[.]39 2024-05-31 2025-04-27 
+154.38.105[.]109 2024-05-31 2025-03-17 
+154.198.213[.]58 2024-05-31 2025-06-02 
+155.94.129[.]191 2021-12-13 2023-06-04 
+156.234.193[.]62 2023-05-07 2025-03-17 
+156.234.193[.]79 2023-05-07 2025-03-17 
+156.245.124[.]20 2026-02-27 2026-03-27 
+156.245.124[.]25
+156.245.124[.]44 2025-10-24 2025-11-24 
+156.245.124[.]47 2025-11-25 2025-12-24 
+156.245.124[.]57 2025-12-24 2026-01-26 
+156.245.124[.]82 2026-04-07 2026-04-27 
+156.245.124[.]113 2025-10-24 2025-11-24 
+156.245.124[.]115 2026-02-27 2026-03-27 
+156.245.124[.]131 2025-12-24 2026-01-26 
+156.245.124[.]157 2026-04-07 2026-04-27 
+156.245.124[.]172 2026-01-26 2026-02-27 
+156.245.124[.]180 2025-09-03 2025-10-03 
+156.245.124[.]223 2025-11-25 2025-12-24 
+156.245.124[.]243 2025-11-26 2026-02-27 
+156.251.172[.]166 2025-03-21 2025-06-02 
+156.251.172[.]167 2025-03-21 2025-06-02 
+156.251.172[.]168 2025-03-21 2025-06-02 
+172.247.15[.]222 2023-05-01 2025-03-17 
+172.247.15[.]236 2024-05-31 2025-05-25 
+198.50.168[.]185 2024-05-31 2025-04-29 
+198.50.168[.]189 2024-05-31 2025-04-29 
+mq-task.qt-proxy[.]org 2025-12-14 2026-12-14* 
+mq-result.qt-proxy[.]org 2025-12-14 2026-12-14* 
+mq-task.qt-team[.]com
+mq-result.qt-team[.]com
+adaadada[.]top 2022-09-24 2023-09-25 
+anticonstitutionally[.]sbs 2026-03-03 2027-03-03* 
+apexrecord[.]top 2023-03-02 2024-03-03 
+bigchains[.]net 2019-03-17 2025-03-17 
+bigdataocean[.]net 2018-12-24 2021-12-24 
+cataclysmdda[.]xyz 2022-12-05 2024-12-05 
+categorystore[.]net 2020-11-20 2026-03-02 
+ccgv[.]me 2018-03-12 2027-03-12* 
+daumcab[.]net 2019-08-01 2024-08-01 
+dlview[.]net 2019-03-17 2024-03-17 
+docker-hub[.]qt-team[.]com 2022-02-25 2032-02-25* 
+fastsecurey[.]info 2026-03-30 2027-03-31* 
+helicopter-crash[.]online 2021-12-10 2022-12-10 
+huntger[.]store 2018-04-01 2020-04-01 
+instantmessagehub[.]tech 2023-11-03 2026-11-03* 
+jump[.]qt-proxy[.]org 2025-12-14 2026-12-14* 
+jump[.]qt-team[.]com 2022-02-25 2032-02-25* 
+miandfish[.]store 2018-06-14 2020-06-14 
+mirrorstorage[.]org
+mq-result[.]qt-proxy[.]org 2025-12-14 2026-12-14* 
+mq-result[.]qt-team[.]com 2022-02-25 2032-02-25* 
+mq-task[.]qt-proxy[.]org 2025-12-14 2026-12-14* 
+mq-task[.]qt-team[.]com 2022-02-25 2032-02-25* 
+newtourism[.]pw 2020-06-26 2024-06-26 
+onlion[.]shop 2024-06-22 2026-06-22* 
+oraclelabs[.]biz 2025-09-03 2026-09-03* 
+qtcyber[.]com 2021-09-02 2031-09-02* 
+qtproxy[.]com 2017-07-20 2020-07-20 
+qt-proxy[.]org 2025-12-14 2026-12-14* 
+qtproxy[.]tk 2018-10-10 2022-09-17 
+qtproxy[.]xyz 2022-11-10 2027-11-10* 
+qt-team[.]com 2022-02-25 2032-02-25* 
+securityforce[.]cf 2020-06-27 2022-06-27 
+serverbks[.]xyz 2023-11-30 2024-11-30 
+taskqueue[.]work 2021-06-06 2022-06-06 
+turandotarting[.]org 2017-11-07 2021-11-07 
+vigorlabs[.]info 2023-12-29 2025-12-29 
+vsky[.]tech 2018-11-08 2019-11-08 
+whtsapp[.]online 2018-04-01 2020-04-01 
+wintel[.]biz 2025-09-03 2026-09-02* 
+worldswar[.]online
+xinjiuwei[.]net
+1.32.216[.]31 2025-09-11 2025-09-13 
+5.34.176[.]230 2020-02-18 2020-02-19 
+5.34.183[.]142 2020-10-21 2020-11-30 
+5.183.179[.]105 2019-07-26  
+5.183.179[.]120 2020-07-02  
+5.183.179[.]133 2021-09-11 2026-05-28 
+23.95.82[.]90 2018-03-04  
+23.224.39[.]80 2023-04-04 2023-09-12 
+23.224.46[.]224 2021-08-03 2022-10-10 
+23.235.147[.]235 2018-11-08 2018-12-14 
+23.238.217[.]23 2020-09-20 2021-03-07 
+23.254.161[.]193 2019-07-24 2020-09-18 
+23.254.164[.]48 2019-05-21 2020-08-22 
+23.254.164[.]181 2019-05-21 2020-09-18 
+23.254.167[.]3 2019-05-21 2019-07-21 
+23.254.202[.]64 2019-06-30 2020-06-22 
+23.254.227[.]240 2020-02-19 2020-03-21 
+23.254.229[.]43
+23.254.250[.]188 2020-02-19 2020-03-04 
+27.102.118[.]249 2019-11-25 2019-12-14 
+27.102.127[.]93 2020-04-29 2020-04-30 
+31.169.126[.]162 2025-06-23 2026-05-08 
+31.170.160[.]61 2018-11-07 2018-11-07 
+31.170.161[.]71 2018-03-31 2019-02-19 
+31.170.161[.]78 2018-05-23 Active 
+39.104.208[.]77 2024-02-28 2020-05-10 
+43.240.12[.]129 2017-12-31 2025-07-07 
+45.8.158[.]64 2025-06-06 2025-06-21 
+45.8.159[.]228 2025-01-22 2020-07-26 
+45.12.206[.]12  2020-07-18 
+45.12.206[.]26 2019-07-15  
+45.12.206[.]72 2020-11-19 2021-11-19 
+45.12.206[.]76 2019-08-15 2020-10-15 
+45.12.206[.]87 2020-07-29 2022-02-04 
+45.12.206[.]234 2019-07-15 2020-07-16 
+45.32.23[.]254 2021-06-21 2021-06-26 
+45.32.32[.]50 2020-08-02 2020-08-03 
+45.82.167[.]22 2020-12-02 2021-10-23 
+45.82.167[.]112 2019-07-26  
+45.82.167[.]115
+45.82.167[.]121 2019-07-26  
+45.82.167[.]222 2019-07-26  
+45.90.57[.]148 2020-10-14 2020-10-24 
+45.95.2[.]119 2026-03-13 2026-04-13 
+45.117.102[.]170  2019-09-10 
+45.128.153[.]29 2023-03-21 2024-01-29 
+45.128.153[.]126 2020-11-19  
+45.134.17[.]84 2022-01-09  
+45.154.2[.]94 2021-03-06 2021-03-07 
+45.157.136[.]157 2020-03-17 2021-03-08 
+45.157.136[.]158 2020-03-17  
+45.157.136[.]159 2020-03-17  
+45.199.188[.]1 2019-04-02  
+45.199.188[.]251 2018-10-23 2019-07-18 
+45.199.189[.]122 2019-07-05 2019-08-20 
+45.199.189[.]123 2019-07-05  
+46.3.242[.]214 2023-12-06 2023-12-20 
+47.76.131[.]175 2024-02-28 2026-05-31 
+47.88.175[.]61 2017-12-19 2020-11-03 
+47.96.8[.]186 2025-03-22 2025-11-28 
+47.122.42[.]2 2024-05-05 2025-11-28 
+58.152.47[.]231
+62.216.88[.]18 2020-06-23 2021-06-21 
+62.216.88[.]26 2020-06-23 2022-12-25 
+64.32.15[.]23 2018-03-13 2018-04-28 
+64.32.15[.]166 2018-04-03  
+64.32.15[.]198 2018-03-16 2018-05-30 
+66.154.120[.]18 2018-07-19 2018-12-31 
+75.140.50[.]69 2018-09-03 2021-09-01 
+77.83.117[.]245 2020-03-14  
+78.142.19[.]106 2019-04-30 2020-03-14 
+78.142.19[.]207 2019-07-26 2019-07-27 
+79.143.186[.]63 2018-03-07 2018-05-07 
+80.241.213[.]68 2018-03-06 2018-05-06 
+80.241.213[.]90 2018-03-06 2018-05-06 
+80.241.213[.]93 2018-03-06 2018-05-06 
+85.143.202[.]117 2019-05-31  
+88.119.175[.]225 2020-01-07 2018-05-07 
+88.119.175[.]229 2021-08-04 2022-07-30 
+89.31.127[.]87 2020-07-18 2022-04-10 
+89.31.127[.]242 2020-06-26 2023-06-26 
+89.223.100[.]18 2019-04-29 2019-06-30 
+91.194.90[.]213 2018-03-26 2018-05-30 
+91.194.91[.]25
+91.194.91[.]84 2018-03-26 2018-06-04 
+91.220.202[.]243 2020-06-23 2020-08-26 
+92.38.139[.]64 2019-12-07 2022-05-12 
+92.38.163[.]102 2020-03-09 2020-07-19 
+94.156.236[.]183 2025-07-10 2026-04-09 
+101.35.24[.]222 2022-04-01 2022-05-18 
+103.83.157[.]38 2020-12-13 2021-10-07 
+103.103.128[.]6 2020-01-14  
+103.114.161[.]228 2018-06-18 2019-04-27 
+103.114.161[.]243 2018-06-22 2018-07-24 
+103.114.163[.]112 2019-04-01  
+104.168.123[.]211 2021-03-08  
+104.168.145[.]175 2019-02-01  
+104.168.148[.]236 2019-02-01 2020-08-22 
+104.168.153[.]230 2019-04-01 2019-10-21 
+104.168.157[.]30 2018-11-28 2019-05-21 
+104.168.158[.]113 2018-11-28 2019-05-21 
+104.168.158[.]114 2018-11-28 2019-05-21 
+104.168.158[.]181 2019-01-02 2019-07-20 
+104.168.165[.]68 2018-11-29  
+104.168.166[.]42 2019-05-21 2019-10-21 
+104.168.166[.]234
+104.168.170[.]48 2018-11-28 2019-05-21 
+104.168.173[.]43 2019-05-21 2019-10-21 
+104.168.173[.]191 2020-02-19  
+104.168.175[.]134 2019-01-01 2019-07-22 
+104.168.194[.]148 2019-05-21 2020-08-22 
+104.168.203[.]65 2019-11-03 2019-12-22 
+104.168.211[.]139 2019-02-17 2020-08-22 
+104.168.211[.]236 2019-02-18 2019-05-21 
+104.234.174[.]5 2026-02-06  
+106.14.33[.]83 2025-03-22 2025-08-13 
+106.14.68[.]99 2025-05-12 2025-08-12 
+106.14.164[.]140 2025-03-22 2025-08-12 
+106.14.184[.]69 2024-01-25 2026-01-17 
+107.155.95[.]134 2021-02-04 2021-03-12 
+107.175.215[.]126 2020-12-15 2021-03-07 
+108.61.203[.]184 2017-12-31 2018-03-16 
+108.174.199[.]29 2019-06-28 2022-05-18 
+108.174.200[.]249 2019-05-19 2020-05-22 
+109.166.36[.]217 2020-08-18 2021-05-24 
+110.163.142[.]168 2019-03-27  
+111.223.246[.]9 2019-09-02 2019-12-14 
+113.212.91[.]177
+118.31.35[.]233 2025-03-11 2025-09-11 
+119.84.120[.]157 2019-07-24 2021-12-13 
+119.237.159[.]189 2021-12-09 2021-12-13 
+120.27.150[.]114 2025-02-27 2025-11-28 
+122.112.169[.]163 2020-02-20 2024-03-15 
+141.164.39[.]12 2020-10-22 2021-01-21 
+142.11.211[.]86 2018-11-22 2020-09-24 
+142.11.211[.]250 2019-07-21 2022-08-04 
+142.11.212[.]111 2019-05-19 2020-05-22 
+142.11.213[.]132 2021-08-04 2022-07-29 
+142.11.213[.]254 2019-05-19 2020-09-22 
+142.11.215[.]132 2019-05-21 2019-07-22 
+142.11.219[.]75 2020-07-11 2021-09-10 
+142.11.227[.]204 2020-02-06 2020-08-22 
+142.11.227[.]246 2020-03-15 2020-03-19 
+142.11.236[.]143 2019-02-17 2020-02-22 
+142.11.237[.]112 2020-07-11 2022-06-29 
+154.85.14[.]250 2019-04-20 2019-12-25 
+154.85.32[.]39 2018-06-21  
+154.85.32[.]43 2018-06-18  
+154.198.212[.]233 2023-08-09 2023-08-23 
+154.210.13[.]78
+154.211.2[.]78 2018-12-16 2019-06-10 
+156.23.19[.]18 2023-12-07 2024-11-29 
+156.67.220[.]50 2020-09-29 2020-10-15 
+156.234.193[.]18 2023-12-03 2024-12-27 
+156.234.193[.]182 2023-08-09 2023-08-30 
+167.160.86[.]103 2018-10-09 2019-04-18 
+167.160.86[.]168 2018-06-23 2020-07-26 
+173.231.242[.]82 2024-07-16 2024-07-21 
+173.247.227[.]62 2018-07-01  
+173.247.232[.]36 2019-01-16 2019-03-15 
+173.247.232[.]38 2019-01-03 2021-05-11 
+185.2.103[.]236 2018-03-06 2018-05-06 
+185.14.31[.]21 2020-10-14 2020-10-24 
+185.62.189[.]42 2018-03-22 2018-12-30 
+185.82.216[.]142 2020-10-14 2020-12-21 
+185.82.218[.]133 2020-10-29  
+185.126.116[.]236 2021-06-06 2022-06-09 
+185.141.24[.]3 2018-02-24  
+185.160.24[.]70 2020-03-20 2020-07-26 
+185.162.128[.]136 2018-03-03 2018-06-04 
+185.167.116[.]125 2020-07-13 2024-01-28 
+185.172.65[.]80
+185.173.235[.]54 2020-12-15 2021-03-06 
+185.173.235[.]172 2020-09-27 2021-03-06 
+185.194.216[.]13 2021-11-29 2022-03-22 
+185.198.56[.]14 2019-11-03  
+185.198.58[.]131 2018-02-06  
+185.198.58[.]240 2018-02-06  
+185.198.58[.]241 2018-02-06  
+185.201.9[.]198 2020-05-01 2020-10-22 
+185.234.218[.]240 2019-05-09 2019-06-23 
+185.239.69[.]163 2022-09-09 2023-04-24 
+188.209.49[.]95 2018-03-17 2018-10-12 
+192.119.73[.]100 2020-02-06 2020-04-29 
+192.119.73[.]107 2020-02-06 2021-08-23 
+192.119.73[.]108 2020-02-06 2021-08-23 
+192.119.77[.]232 2020-10-23 2021-08-23 
+192.236.147[.]72 2019-11-04 2019-12-22 
+192.236.162[.]232 2020-02-23 2020-09-20 
+192.236.163[.]117 2020-02-23 2020-08-22 
+192.236.163[.]119 2020-02-23 2020-09-19 
+192.236.178[.]206 2019-05-21 2019-07-16 
+192.236.178[.]207 2019-05-21 2020-08-18 
+192.236.179[.]163
+192.236.179[.]164 2019-07-27  
+192.236.179[.]166 2019-07-27  
+192.236.179[.]167 2019-07-27  
+192.236.179[.]173 2019-07-27  
+192.236.179[.]216 2019-07-27  
+192.236.179[.]254 2019-07-27  
+192.236.192[.]3 2019-07-27 2020-08-22 
+192.236.192[.]4 2019-07-27 2020-02-22 
+192.236.192[.]5 2019-07-27 2020-09-21 
+192.236.192[.]6 2019-07-27 2020-08-22 
+192.236.192[.]119 2019-07-27 2020-08-22 
+193.34.144.131
+193.38.51.46
+193.160.32.138
+193.160.32.141
+193.160.65.116
+193.160.96.154
+193.200.241.157
+194.104.10.58
+194.124.33.93
+194.124.35.104
+194.126.173.71
+194.126.173.154
+194.156.120.205
+195.123.213.218
+195.123.237.33
+195.123.240.47
+198.13.37.185
+198.44.14.72
+198.44.15.200
+198.46.233.13
+198.50.168.176
+198.50.168.182
+198.74.112.85
+198.84.122.140
+208.51.62.181
+213.136.66.213
+213.183.56.96
+213.252.244.38
+213.252.244.51
+218.66.59.169
+221.226.197.238
+222.99.101.22
